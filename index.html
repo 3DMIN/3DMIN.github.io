@@ -1,23 +1,17 @@
 ---
-layout: default
+layout: start
 ---
+	<section class="start">
+		<span class="anchor" id="top"></span>
+		
+	</section>
+	{% assign sorted_pages = site.start | sort:"order" %}
+	{% for post in sorted_pages %}
+	<section class="{{ post.title }}" >
+		<span class="anchor" id="{{ post.title }}"></span>
+			<div class="wrapper">
+				{% include build-template.html %}
+			</div>
+	</section>
+	{% endfor %}
 
-<div class="home">
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-	        {{post.url}}
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="build">
+
+    {% include header.html %}
+	<section class="build-start" style="background: url('../build/{{page.title}}-cover.jpg') no-repeat center center;">
+	    <span class="anchor"></span>
+		<div class="wrapper">
+			<div class="text">
+				<div class="column">
+					<div class="col-1">
+					<h1>Steps</h1>
+						<ol class="steps">{% for steps in page.steps %}
+						<li><a href="#{{ steps.top-level }}">{{ steps.top-level  | append:'</a>' }} {% if product.nested-products %}
+						<ul>
+						{% for nestedproduct in product.nested-products %}  <li>{{ nestedproduct.nested }}</li>
+						{% endfor %}</ul>
+						{% endif %}</li>{% endfor %}
+						</ol>
+					</div>
+					<div class="col-1">
+						<h1>Tools</h1>
+							{% for tool in page.tools %}
+							<ul>
+							<li>{{ tool.top-level }}{% if tool.nested-tools %}</li>
+								<ul class="nested">
+								{% for nestedtool in tool.nested-tools %} 
+								<li>{{ nestedtool.nested }}</li>
+								{% endfor %}
+								</ul>
+								{% endif %}</ul>{% endfor %}
+					</div>
+					<div class="files col-1">
+						<h1>Files</h1>
+							{% for file in page.files %}
+							<ul>
+							<li><a href="{{file.top-level}}">{{ file.top-level | append:'</a>' }}{% if file.nested-files %}</li>
+								<ul class="nested">
+								{% for nestedfile in file.nested-files %} 
+								<li>{{ nestedfile.nested }}</li>
+								{% endfor %}
+								</ul>
+								{% endif %}</ul>{% endfor %}
+					</div>
+					<div class="materials col-1">
+						<h1>Materials</h1>
+							{% for material in page.materials %}
+							<ul>
+							<li>{{ material.top-level }}{% if material.nested-materials %}</li>
+								<ul class="nested">
+								{% for nestedmaterial in material.nested-materials %} 
+								<li>{{ nestedmaterial.nested }}</li>
+								{% endfor %}
+								</ul>
+								{% endif %}</ul>{% endfor %}
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</section>
+
+    <section class="content">
+		<div class="wrapper content">
+			<div class="column">
+				<div class="col-1 fixed">
+					<h1>Steps</h1>
+						<ol class="steps">{% for steps in page.steps %}
+						<li><a href="#{{ steps.top-level }}">{{ steps.top-level  | append:'</a>' }} {% if product.nested-products %}
+						<ul>
+						{% for nestedproduct in product.nested-products %}  <li>{{ nestedproduct.nested }}</li>
+						{% endfor %}</ul>
+						{% endif %}</li>{% endfor %}
+						</ol>
+				</div>
+				<div class="col-3">
+					{{ content }}
+				</div>
+			</div>
+		</div>
+	</section>
+    	
+    </section>
+
+    {% include footer.html %}
+
+  </body>
+</html>

@@ -1,0 +1,14 @@
+{{ post.content }}
+{% if post.title == "build"%}
+	{% assign sorted_pages = site.build | sort:"order" %}
+	{% for post in sorted_pages %}
+	<article>
+		<a href="{{post.url}}">
+			<article class="bellow">
+				<div class="circle" style="background: url('../build/{{post.title}}-teaser.jpg') no-repeat center center;"></div>
+				<h1>{{post.title}}</h1>
+			</article>	
+		</a>
+	</article>
+	{% endfor %}
+{% endif%}
