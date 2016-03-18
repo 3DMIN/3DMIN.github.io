@@ -1,10 +1,10 @@
 <header class="site-header">
-
+{{ site.baseurl }}
 
   	<nav class="nav-main">
     	<div class="wrapper">
 	    	<ul>
-		    	<li><a class="start" href="{{ site.baseurl }}/#top">{{ site.title }}{{ page.url }}</a></li>
+		    	<li><a class="start" href="#top">{{ site.title }}{{ page.url }}</a></li>
 		    		{% assign sorted_pages = site.start | sort:"order" %}
 					{% for post in sorted_pages %}
 					<li><a class="{{post.title}}" href="#{{post.title}}">{{post.title}}</a></li>
