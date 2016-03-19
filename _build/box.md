@@ -13,17 +13,18 @@ tools:
 - top-level: laser-cutter
 - top-level: drilling
   nested-tools:
-   - nested: drilling machine
+   - nested: upright drilling machine with accessories
    - nested: center bit, 20mm diameter
    - nested: drill bit for wood, 11mm diameter
 - top-level: glueing
   nested-tools:
    - nested: wood glue
-   - nested: damp cloth to remove excess glue
-   - nested: 4 c-clamps
-   - nested: 8 wooden blocks (ca. 5cm by 5cm) for clamping
-   - nested: newspaper sheets for clamping
-   - nested: 8 screws M3, 10mm + washers for clamping
+   - nested: cloth
+   - nested: 4 C-clamps
+   - nested: 8 wooden blocks (5x5cm)
+   - nested: a newspaper
+   - nested: 8 screws M3, 10mm 
+   - nested: 8 washers M3
 - top-level: sanding
   nested-tools:
    - nested: P100 sand paper
@@ -32,7 +33,11 @@ tools:
 - top-level: filling
   nested-tools:
    - nested: scraper
-   - nested: piece of scrap-wood to prepare 2K filling material
+   - nested: piece of scrap-wood
+- top-level: filing
+  nested-tools:
+   - nested: set of small files
+
 files:
 - top-level: TODO_laser-cutting-plywood.pdf
 materials:
