@@ -1,202 +1,273 @@
 ---
 title: box
 order: 4
+layout: page-build
+steps:
+- top-level: Laser-cutting
+- top-level: Drilling
+- top-level: Dry run assembly
+- top-level: Glueing
+- top-level: Drying and clamping
+- top-level: Sanding
+tools:
+- top-level: laser-cutter
+- top-level: drilling
+  nested-tools:
+   - nested: drilling machine
+   - nested: center bit, 20mm diameter
+   - nested: drill bit for wood, 11mm diameter
+- top-level: glueing
+  nested-tools:
+   - nested: wood glue
+   - nested: damp cloth to remove excess glue
+   - nested: 4 c-clamps
+   - nested: 8 wooden blocks (ca. 5cm by 5cm) for clamping
+   - nested: newspaper sheets for clamping
+   - nested: 8 screws M3, 10mm + washers for clamping
+- top-level: sanding
+  nested-tools:
+   - nested: P100 sand paper
+   - nested: sanding block
+   - nested: (sanding machine)
+- top-level: filling
+  nested-tools:
+   - nested: scraper
+   - nested: piece of scrap-wood to prepare 2K filling material
+files:
+- top-level: TODO_laser-cutting-plywood.pdf
+materials:
+- top-level: Plywood, 6mm, XXXcm by XXXcm TODO how big?
+- top-level: 4 spacer bolts, XXXmm TODO length
+- top-level: 2K filling material
 ---
-
-![all you need](../Bild/balgenbauen/IMG_1102.jpg)
-
-## Tools
-
-* laser-cutter
-* coating preparation
-    - cutter
-    - cutter ruler
-    - tape
-	- gummi walze
-* coating
-	- messbecher
-	- rubber spreader
-	- vinyl gloves
-* putting preparation
-	- scisors
-	- locheisen (5mm)
-* putting
-    - zulage
-    - tape
-    - gummiwalze
-	- vinyl gloves
-	- brush (for applying latex)
-* folding
-    - scissors
-    - brush (for applying talcum)
-	- 2 c-clamps
-	- 2 Zulagen
-* glueing
-	- stick (for applying glue)
-	- vinyl gloves
-	- 2 c-clamps
-	- 2 Zulagen
-	- paper
-
-### Files
-
-+ file for laser cutting cardboard 
-+ file for lasercutting metall
-
-
-## Materials
-
-no seperate picture
-
-+ cardboard, XXmm, (48 x 95 cm)
-+ adhesive film (mirror), (48 x 95 cm)
-+ adhesive film (transfer), (50 x 100 cm)
-+ moscito net (50 x 100 cm)
-+ liquid latex (1l, thick)
-+ strip of latex-textile (4 x 95cm)
-+ strip of transparent adhesive film (4 x 95cm)
-+ talcum
-+ piece of metall (XXmm x XXmm x XXmm)
-+ weicon adhesive spray
-+ pattex transparent
-+ epoxy
-
 
 ## Workspace
 
-no picture
+![Tabletop with vise](../Bild/boxbauen/IMG_2513.jpg)
+*Tabletop with vise*
+
+## Photos of tools
+
+![Forstner Drill](../Bild/boxbauen/IMG_1257.jpg)
+*Forstner Drill*
+
+![Drilling machine with drill](../Bild/boxbauen/IMG_1286.jpg)
+*Drilling machine with drill*
+
+![Sanding equipment, filler](../Bild/boxbauen/IMG_1165.jpg)
+*Sanding equipment, filler*
+
+![Wood glue, c-clamps, brushes, screws](../Bild/boxbauen/IMG_1185.jpg)
+*Wood glue, c-clamps, brushes, screws*
+
+
+
 
 ## End Result
 
-![folded bellow with metall frames](../Bild/balgenbauen/IMG_4282.jpg)
+![Glued box from the front](../Bild/boxbauen/IMG_2171.jpg)
+*Glued box from the front*
+
+![Glued, sanded and filled box from top](../Bild/boxbauen/IMG_2940.jpg)
+*Glued, sanded and filled box from top*
+
 
 
 ## Laser-cutting
-+ bond mirror film with cardboard before lasering!
-+ load provided illustrator file ```bellow``` to your laser-cutter
-+ try cut settings with test piece of mounted mirror-film on cardboard
-+ laser-cut sheet
-+ have the metal piece professionally produced, all holes with need to have a M3 female screw thread
+
+![laser-cut wooden parts and spacer bolts](../Bild/boxbauen/IMG_1175.jpg)
+*laser-cut wooden parts and spacer bolts*
+
+Use the illustrator file ```box-wood``` to laser-cut the parts from the plywood piece.
+
+<span class="note">Before using your actual material, try the lasercutter and its settings with a scrab-piece of plywood.</span>
 
 
-## Prepairing Coating
+## Drilling
 
-for the following steps it is recommended to work in pairs of two
+![Fix the left wall in a drilling vise](../Bild/boxbauen/IMG_1258.jpg)
+*Fix the left wall in a drilling vise.*
 
-![cut transfer adhesive film to 50 x 100cm](../Bild/balgenbauen/IMG_2145.jpg)
-
-![removing film from paper, start at one courner and pull diagonal and parallel to surface](../Bild/balgenbauen/IMG_0415.jpg)
-
-![One positions the transparent film parallel to the end of lasered sheet (mirrored side up!) the other is holding up the other end of the film. take care that the film has a more or less überstand at each side of the cardboard](../Bild/balgenbauen/IMG_2164.jpg)
-
-![use cloth pressing foil to cardboard, move slowly from one end of the cardboard to the other while brushing from left to right](../Bild/balgenbauen/IMG_2480.jpg)
-
-![transparent film properly mounted on sheet](../Bild/balgenbauen/IMG_0459.jpg)
-
-![cut moscito net to 50 x 100cm](../Bild/balgenbauen/C0014T01.jpg)
-
-![apply adhesive spray on cardboard](../Bild/balgenbauen/IMG_2201.jpg)
-
-![apply adhesive spray on moscito net](../Bild/balgenbauen/IMG_1260.jpg)
-
-wait about 10 min before mounting moscito net on cardboard, adhesive spray needs to be dry
-
-![mounting moscito net on cardboard the same way as transparent adhesive film was mounted before, adjust position of net with hand if necessary, avoid wrinkles!](../Bild/balgenbauen/IMG_2525.jpg)
-
-![using a rubber role to apply even and pressure. Not time but amount of pressure matters with using adhesive spray](../Bild/balgenbauen/IMG_1276.jpg)
-
-## Coating
-
-![tape material to working surface, it should be strapped under tension](../Bild/balgenbauen/IMG_2619.jpg)
-
-put on vynil gloves, and repeat coating three times. thin layers of latex are better, wait for one layer to fully dry until you apply the next layer. this takes more or less 2 hours.
-
-![pour more or less 300m of liquid latex on material](../Bild/balgenbauen/IMG_2231.jpg)
-
-![spread liquid latex on surface evenly](../Bild/balgenbauen/IMG_2235.jpg)
-
-![the more diagonal you hold the rubber spreader the easyer you can spread the latex into the moscito net](../Bild/balgenbauen/IMG_1925.jpg)
-
-![take care of the edges, they should be covered fully by latex](../Bild/balgenbauen/IMG_1578.jpg)
-
-![coated material, avoid dabs, if they happen spread them with your fingertip](../Bild/balgenbauen/IMG_1574.jpg)
+![Center the Forstner drill to the center hole](../Bild/boxbauen/IMG_1270.jpg)
+*Center the Forstner drill to the center hole.*
 
 
+![Drill away 1.5mm of the material](../Bild/boxbauen/IMG_1274.jpg)
+*Drill away 1.5mm of the material.*
 
-## Prepairing Putting
-
-![dettach material from surface and cut allong the edges](../Bild/balgenbauen/IMG_2099.jpg)
-
-![](../Bild/balgenbauen/IMG_2603.jpg)
-
-![](../Bild/balgenbauen/IMG_2395.jpg)
-
-![cut wholes into material with punch (TODO: FOTO MACHEN)](../Bild/balgenbauen/C0009T01.jpg)
-
-![remove adhesive transfer film from the mirror side of the material. it is very important to remove it by pulling slowy and parallel to surface. that way you won't rip latex out of the spacings within the material](../Bild/balgenbauen/IMG_2124.jpg)
+![Change to a 20mm wood drill and make a hole at the center of the pit.](../Bild/boxbauen/IMG_1277.jpg)
+*Change to a 20mm wood drill and make a hole at the center of the pit.*
 
 
-## Putting
+## Dry run assembly
 
-Again for the following steps it is much easier to work with somebody who can give you hand.
+![put pieces together without glue](../Bild/boxbauen/IMG_1192.jpg)
+Before gluing the pieces into the box, put them together without glue to check if everything fits.
 
+![](../Bild/boxbauen/IMG_1198.jpg)
+<span class="note">Note that the shape of the elements does allow more than one way to create a box. Be careful to not swap elements or put them in inside-out.</span>
 
-![put a log of wood in the middle of material as supporting structure during putting process](../Bild/balgenbauen/IMG_2667.jpg)
+The back element has four slits, whereas the front has four squares. 
+The left side has a center hole and the right side two holes which should ne located on the front-right side of the box.
 
-![put the strip of adhesive film on the log (adhesive side up) and fix it with tape at each end of the log](../Bild/balgenbauen/IMG_2668.jpg)
+![](../Bild/boxbauen/IMG_1203.jpg)
 
-![bend one half of the sheet towards the adhesive foil on the log so that it sticks there](../Bild/balgenbauen/IMG_2678.jpg)
-
-![bend the other half](../Bild/balgenbauen/IMG_3021.jpg)
-
-![start at one end putting both ends together](../Bild/balgenbauen/IMG_2684.jpg)
-
-![slowly moving up, triangle need to interlock](../Bild/balgenbauen/IMG_2689.jpg)
-
-![cut strip of latex textile 4 x 95cm](../Bild/balgenbauen/IMG_2656.jpg)
-
-![apply a 4cm wide strip contact clue on bellowseam](../Bild/balgenbauen/IMG_2915.jpg)
-
-![apply contact clue on latex textile strip](../Bild/balgenbauen/IMG_2709.jpg)
-
-![when glue has fully dried glue strib to seam by applying pressure with rubber role](../Bild/balgenbauen/IMG_2724.jpg)
-
-![](../Bild/balgenbauen/IMG_2731.jpg)
-
-![apply latex with brush along the edges of strips](../Bild/balgenbauen/IMG_2926.jpg)
-
-![spreading latex with fingertips](../Bild/balgenbauen/IMG_2922.jpg)
+Seven Tower pieces (3 with and 4 without cutaways) stack to a tower with a hole in the middle for the hexagonal spacer bolts. 
+Use a hexagonal spacer bolt for the stacking, this way you make sure to put them in the right direction.
 
 
-## Folding
+![Tower pieces stacked with the hexagonal spacer bolt inside](../Bild/boxbauen/IMG_1204.jpg)
+*Tower pieces stacked with the hexagonal spacer bolt inside*
 
-![cut the edges of the short ribs at each side of the bellow](../Bild/balgenbauen/IMG_3022.jpg)
+![Front view with right tower assembled](../Bild/boxbauen/IMG_1223.jpg)
+*Front view with right tower assembled.*
 
-![apply talcum evenly on surface](../Bild/balgenbauen/IMG_3037.jpg)
 
-![](../Bild/balgenbauen/IMG_2972.jpg)
+The jigsaw shape of the towers should fit neatly into the corresponding front and back elements. However, depending on quality and source, plywood can be more or less thick. If yours is too thick (>0.6mm), sand down the Tower pieces such that they fit into the teeth of the sides.
 
-![fold bellow](../Bild/balgenbauen/IMG_0264.jpg)
+<span class="note">If the plywood is too thin, you can fill the gaps later with filling material or, if you know what you are doing, by adding sawdust to the glue you put between the tower elements.</span>
 
-![](../Bild/balgenbauen/IMG_3102.jpg)
+![sand down Tower pieces](../Bild/boxbauen/IMG_0678.jpg)
+*Sand down Tower pieces.*
 
-![clamp bellow over night so it will stay in folded position. It it not necessary to apply a lot of pressure. Just that its stable.](../Bild/balgenbauen/IMG_3239.jpg)
+
+When you completely assembled the box, it is time to prepare the pieces such that you will be able to easily put them together for the glueing.
+For this, mark all parts of the box facing inwards with a cross. and then disassemble it piece by piece and put its elements on the table, their insides (or top in case of the bottom, top and tower elements) facing upwards.
+
+
+![Mark all parts of the box facing inwards with a cross.](../Bild/boxbauen/IMG_1225.jpg)
+*Mark all parts of the box facing inwards with a cross.*
+
+![Disassemble with insides facing upwards.](../Bild/boxbauen/IMG_1234.jpg)
+*Disassemble with insides facing upwards. Tower elements are put in their sequence to the four corners of the bottom element.*
+
+
+
+Mark the top sides of the tower elements with numbers 1–7 to ensure them being glued in the same order.
+
+![mark top side of Tower pieces with a number 1–7](../Bild/boxbauen/IMG_1244.jpg)
+![final layout before glueing](../Bild/boxbauen/IMG_1749.jpg)
+*Final layout before glueing*
+
 
 
 ## Glueing
 
-while glueing in the metall frames at each end of the bellow work with another person. before glueing make sure metall parts are fat and dust free. Glue one frame at a time since the epoxy hardens quiet fast!
+<span class="note">Glueing is best done with two people. While one puts the pieces together, the other prepares them with glue.</span>
+<span class="note">Do *not* glue the top element to the box!</span>
 
-![put metall frame inside the last fold of the bellow, make sure that the holes ar in the same positions as in the bellow and apply a thin layer of epoxy in between the holes. leave 1cm space between holes and epoxy to make sure that no glue will go into the female screw thread](../Bild/balgenbauen/IMG_3301.jpg)
+The process of glueing should take you no more than 10 minutes, otherwise you risk the wood glue to dry and harden without the needed pressure. When done witht the glueing, immediatly continue with [clamping the box](#drying-and-clamping).
+Put glue to all the places that will stick to each other. 
+Spread it with a brush if necessary.
 
-![fold the end of the bellow around the metall](../Bild/balgenbauen/IMG_3305.jpg)
+Start with the base and first add left and right elements, followed by front and back walls.
 
-![](../Bild/balgenbauen/IMG_3307.jpg)
+Then, one by one, put the Tower pieces into place. 
+They need to be attached to the front/side parts, too, so they need glue applied there as well. 
+Take care to stack its pieces in the right order and with the marked side facing up (otherwise the hexagonal bolt will not fit).
+When finnished one tower, push a hexagonal spacer bolt through its hole. 
 
-![clamp bellow, not to apply a lot of pressure, rather to stabalise the last foldings of the bellow](../Bild/balgenbauen/IMG_3312.jpg)
+*Do not glue the lid!*
 
-![let sit until epoxy is hardened](../Bild/balgenbauen/IMG_3314.jpg)
+During glueing, wipe away excess glue with a damp cloth. Everything you do not remove now will be difficult to remove once the glue is hardened.
 
-![apply latex on the naked metal at each end of the bellow](../Bild/balgenbauen/IMG_3481.jpg)
+![Put glue to all the places that will stick to each other. spread with a brush if necessary.](../Bild/boxbauen/IMG_0657.jpg)
+*Put glue to all the places that will stick to each other. spread with a brush if necessary.*
 
-![done!](../Bild/balgenbauen/IMG_3491.jpg)
+
+![The corner towers need to be attached to the front/side parts, too.](../Bild/boxbauen/IMG_1327.jpg)
+*The corner towers need to be attached to the front/side parts, too.*
+
+![For an even spread of the glue, apply it first to one side, then rub it carefully to the next piece.](../Bild/boxbauen/IMG_1745.jpg)
+*For an even spread of the glue, apply it first to one side, then rub it carefully to the next piece.*
+
+![When building the towers, take care to stack its pieces in the right order and with the marked side facing up. Otherwise the hexagonal bolt will not fit.](../Bild/boxbauen/IMG_1200.jpg)
+*When building the towers, take care to stack its pieces in the right order and with the marked side facing up. Otherwise the hexagonal bolt will not fit.*
+
+![Push the bolt into place.](../Bild/boxbauen/IMG_1319.jpg)
+*Push the bolt into place.*
+
+![An assembled corner](../Bild/boxbauen/IMG_1209.jpg)
+*An assembled corner*
+
+## Drying and clamping
+
+For the glue to hold, the assembled structure needs to be clamped down for at least on hour. To apply pressure evenly, the lid is added to the structure *without applied glue*. 
+
+After adding the lit, screw the parts firmly (but not too tightly) together by fiting the screws into the spacer bolds. Use one washer on each screw to prevent markings in the wood.
+Fix the structure with c-clamps and wood blocks. To keep the wooden blocks from attaching to the box (e.g. because of additional excess glue), put newspaper pieces between them and the box.
+After about one hour, release the c-clamps. Your box should now be assembled.
+
+<span class="note">Wait at least one hour before continuing to work on of with the box.</span>
+
+![Clamped part, top view](../Bild/boxbauen/IMG_0671.jpg)
+*Clamped part, top view.*
+
+![Clamped part, side view](../Bild/boxbauen/IMG_0675.jpg)
+*Clamped part, side view.*
+
+## Sanding
+
+To prepare for the surface finnish, e.g. painting or oiling, the box needs to be sanded.
+For this, fix it to a vise using wooden spare parts to protect it from the metal. 
+Sand it from all sides with P100 sanding paper, either by hand or with a machine.
+Particulalry sand away irregularities, there will be some especially at the rounded corners of the box.
+
+To prevent dents and irregularities, use a sanding block at all times and round the corners by hand, not with the sanding machine.
+Always start at a flat surface. From there, go over the round corner until you reach the next flat surface.
+
+![To sand a corner, start at a flat surface](../Bild/boxbauen/IMG_1566.jpg)
+*To sand a corner, start at a flat surface.*
+
+![Go smoothly over the round corner until you reach the next flat surface](../Bild/boxbauen/IMG_1565.jpg)
+*Go smoothly over the round corner until you reach the next flat surface.*
+
+
+
+
+![Fix the box in a vise with wooden blocks to protect it from dents.](../Bild/boxbauen/IMG_0182.jpg)
+*Fix the box in a vise with wooden blocks to protect it from dents.*
+
+
+![Working with a sanding machine.](../Bild/boxbauen/IMG_1712.jpg)
+![side view](../Bild/boxbauen/IMG_2252.jpg)
+![back view](../Bild/boxbauen/IMG_2249.jpg)
+![front view](../Bild/boxbauen/IMG_2254.jpg)
+*Working with a sanding machine.*
+
+
+## Filling
+
+Holes and dents in the box' surface can be closed by the application of filling material.
+For the 2K filling material to work, tis two components needs to be mixed together thorroughly. For this, take some of the first material and put it to a wooden surface, then add a small amount of the second material and mix the two components with a spatula. 
+
+<span class="note">Mix only as much as you will be able to use within the next 10 minutes</span>
+
+Apply it with a scraper to the groves and cracks and remove excess immediatly.
+
+<span class="note">Remove excess material when it is still fresh; dry material gets very hard and therefore takes a lot of time to sand away.</span>
+
+![Fill groves and cracks with filling material using a scraper](../Bild/boxbauen/IMG_2403.jpg)
+*Fill groves and cracks with filling material using a scraper.*
+
+![Prepared box (way too much filling material)](../Bild/boxbauen/IMG_2770.jpg)
+*A box with way too much filling material.*
+
+
+## Filing
+
+The lid of the box should get on and off easily. To ensure this, it is necessary to file away parts of its teeth. 
+
+Fix the lid in a vise and carefully file away parts of the teeth with a flat file.
+The use of a square file supports you to keep a right angle also in the corners.
+
+<span class="note">Be careful when taking away the material and be prepared to try several times if the lid fits snug. It is not possible to re-apply filed-off material.</span>
+
+![Fix the lid in a vise.](../Bild/boxbauen/IMG_2774.jpg)
+*Fix the lid in a vise.*
+
+![Carefully file away parts of the teeth with a flat file.](../Bild/boxbauen/IMG_2445.jpg)
+*Carefully file away parts of the teeth with a flat file.*
+
+![A square file helps to keep the angle right.](../Bild/boxbauen/IMG_2439.jpg)
+*A square file helps to keep the angle right.*
