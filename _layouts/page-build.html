@@ -13,14 +13,7 @@
 				<div class="column">
 					<div class="col-1">
 					<h1>Steps</h1>
-						<ol class="steps">{% for steps in page.steps %}
-						<li><a href="#{{ steps.top-level }}">{{ steps.top-level  | append:'</a>' }} {% if product.nested-products %}
-						<ul>
-						{% for nestedproduct in product.nested-products %}  <li>{{ nestedproduct.nested }}</li>
-						{% endfor %}</ul>
-						{% endif %}</li>{% endfor %}
-						</ol>
-						
+						{{ content | toc }}
 					</div>
 					<div class="col-1">
 						<h1>Tools</h1>
@@ -69,13 +62,7 @@
 			<div class="column">
 				<div class="col-1 fixed">
 					<h1>Steps</h1>
-						<ol class="steps">{% for steps in page.steps %}
-						<li><a href="#{{ steps.top-level }}">{{ steps.top-level  | append:'</a>' }} {% if product.nested-products %}
-						<ul>
-						{% for nestedproduct in product.nested-products %}  <li>{{ nestedproduct.nested }}</li>
-						{% endfor %}</ul>
-						{% endif %}</li>{% endfor %}
-						</ol>
+						{{ content | toc }}
 				</div>
 				<div class="col-3">
 					{{ content }}
