@@ -291,9 +291,10 @@ body.build {
 				}
 			}
 		}
-		.stick {
+		.fixed {
 			position: fixed;
-			top: 190px;
+			top: 100px;
+			display: none;
 			
 		}
 		.col-3 {
