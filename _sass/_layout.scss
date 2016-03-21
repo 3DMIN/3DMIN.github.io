@@ -312,28 +312,44 @@ body.build {
 				}
 				p {
 					margin: 0 0 2em 0;
+					max-width: 650px;
+					line-height: 1.5;
 				}
 				strong {
-					display: inline-block;
-					width: auto;
-					border: 1px solid white;
-					padding: 1em;
-					font-size: 1;
-					font-family: 'Inconsolata', ;
-					margin-bottom: 2em;
+					font-weight: 700;
 				}
+				em {
+					font-style: italic;
+				}
+				pre {
+					font-family: 'Inconsolata';
+					font-size: 2em;
+					line-height: 1.5;
+					margin: 0 0 1.5em 0;
+					background: white;
+					color: black;
+					padding: 0.5em;
+					max-width: 650px;
+					overflow-x: scroll;
+				}
+				
+				.note {
+					font-family: 'Inconsolata';
+					border: 1px solid white;
+					padding: 0.5em;
+					display: block;
+					font-size: 1.3em;
+					line-height: 1.5;
+				}
+				
 				.sub-step {
 					margin-top: 10em;
 				}
 				img {
-					margin-left: 2em;
 					max-height: 75vh;
 					width: auto;
 					border: 1em solid white;
 					transition: all .2s ease-in-out;
-					&:hover {
-						border: 1em solid transparent;
-					}
 				}
 				p {
 				}

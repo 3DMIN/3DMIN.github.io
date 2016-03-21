@@ -31,6 +31,20 @@ materials:
     - nested: adhesive film (transfer), (50 x 100 cm)
 ---
 
+## auszeichnungen (h2 'doppelraute am anfang')
+
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. (fließtext ohne auszeichnung)
+
+**fett (strong 'doppelsternchen vorne und hinten')**
+
+*italic (em 'einfaches sternchen vorne und hinten -> bildunterschriften')*
+
+<pre>code ('< pre>''< /pre>'
+ohne das leerzeichen nach spitze klammer auf)</pre>
+
+<span class="note">note ('< span class="note">< /span> ohne das leerzeichen nach spitze klammer auf)</span>
+
+
 ![all you need](../Bild/balgenbauen/IMG_1102.jpg)
 
 
@@ -54,11 +68,14 @@ no picture
 
 **for the following steps it is recommended to work in pairs of two**
 
-![cut transfer adhesive film to 50 x 100cm](../Bild/balgenbauen/IMG_2145.jpg)
+![](../Bild/balgenbauen/IMG_2145.jpg)
+*cut transfer adhesive film to 50 x 100cm*
 
-![removing film from paper, start at one courner and pull diagonal and parallel to surface](../Bild/balgenbauen/IMG_0415.jpg)
+![](../Bild/balgenbauen/IMG_0415.jpg)
+*removing film from paper, start at one courner and pull diagonal and parallel to surface*
 
-![One positions the transparent film parallel to the end of lasered sheet (mirrored side up!) the other is holding up the other end of the film. take care that the film has a more or less überstand at each side of the cardboard](../Bild/balgenbauen/IMG_2164.jpg)
+![](../Bild/balgenbauen/IMG_2164.jpg)
+*One positions the transparent film parallel to the end of lasered sheet (mirrored side up!) the other is holding up the other end of the film. take care that the film has a more or less überstand at each side of the cardboard*
 
 ![use cloth pressing foil to cardboard, move slowly from one end of the cardboard to the other while brushing from left to right](../Bild/balgenbauen/IMG_2480.jpg)
 
@@ -80,7 +97,7 @@ wait about 10 min before mounting moscito net on cardboard, adhesive spray needs
 
 ![tape material to working surface, it should be strapped under tension](../Bild/balgenbauen/IMG_2619.jpg)
 
-**put on vynil gloves, and repeat coating three times. thin layers of latex are better, wait for one layer to fully dry until you apply the next layer. this takes more or less 2 hours.**
+<p class="note">put on vynil gloves, and repeat coating three times. thin layers of latex are better, wait for one layer to fully dry until you apply the next layer. this takes more or less 2 hours.</p>
 
 ![pour more or less 300m of liquid latex on material](../Bild/balgenbauen/IMG_2231.jpg)
 
