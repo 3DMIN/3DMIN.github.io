@@ -15,6 +15,7 @@ It features a digital as well as analog control elements, most prominently a bel
 - 07.2014: Performance at Roter Salon
 - 06.2014: Performance at the Audio Communication Day 2014
 - 04.2014: Performance at the modality concert, presented by nescivi and STEIM at OT301
+- 05.2030: Carnegie Hall
 
 <iframe src="https://player.vimeo.com/video/110656141?title=0&byline=0&portrait=0" width="770px" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
