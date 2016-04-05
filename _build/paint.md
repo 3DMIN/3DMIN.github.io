@@ -1,202 +1,149 @@
 ---
 title: paint
 order: 3
+layout: page-build
 ---
 
-![all you need](../Bild/balgenbauen/IMG_1102.jpg)
+## Steps
+
+* taping
+* filling
+* sanding
+* varneshing
+
 
 ## Tools
 
-* laser-cutter
-* coating preparation
-    - cutter
-    - cutter ruler
-    - tape
-	- gummi walze
-* coating
-	- messbecher
-	- rubber spreader
-	- vinyl gloves
-* putting preparation
-	- scisors
-	- locheisen (5mm)
-* putting
-    - zulage
-    - tape
-    - gummiwalze
-	- vinyl gloves
-	- brush (for applying latex)
-* folding
-    - scissors
-    - brush (for applying talcum)
-	- 2 c-clamps
-	- 2 Zulagen
-* glueing
-	- stick (for applying glue)
-	- vinyl gloves
-	- 2 c-clamps
-	- 2 Zulagen
-	- paper
+![device to varnish solid parts: hand-bloc and top part ring (it is important that wet varnished edges do not touch the ground!)](../images/paint/IMG_3916.jpg)*device to varnish solid parts: hand-bloc and top part ring (it is important that wet varnished edges do not touch the ground!)*
 
-### Files
+![device to varnish finger parts](../images/paint/IMG_3519.jpg)*device to varnish finger parts*
 
-+ file for laser cutting cardboard 
-+ file for lasercutting metall
-
-
+* taping
+	- tape
+	- wooden sticks for applying tape into edges
+	- cutter
+* filling
+    - scraper
+    - piece of scrap-wood to prepare 2K filling material
+* sanding
+	- sanding blocks (cork for lower box, acrylic glass for wet sanding of 3D printed parts)
+    - sandpaper (P240, P400, P600)
+	- bowl of water
+	- papertowels
+* varneshing
+	- two triangular sticks for varneshing lower box
+	- devices/supportconstructions for varnishing elements of top part
+	
 ## Materials
 
-no seperate picture
-
-+ cardboard, XXmm, (48 x 95 cm)
-+ adhesive film (mirror), (48 x 95 cm)
-+ adhesive film (transfer), (50 x 100 cm)
-+ moscito net (50 x 100 cm)
-+ liquid latex (1l, thick)
-+ strip of latex-textile (4 x 95cm)
-+ strip of transparent adhesive film (4 x 95cm)
-+ talcum
-+ piece of metall (XXmm x XXmm x XXmm)
-+ weicon adhesive spray
-+ pattex transparent
-+ epoxy
++ 2K fine filler
++ plastic primer
++ spray putty
++ filler
++ varnish
 
 
 ## Workspace
 
-no picture
+![worspace (wet) sanding](../images/paint/IMG_4477.jpg)*worspace (wet) sanding*
+
+![worspace varnishing](../images/paint/IMG_2860.jpg)*worspace varnishing*
 
 ## End Result
 
-![folded bellow with metall frames](../Bild/balgenbauen/IMG_4282.jpg)
+![varnished box](../images/paint/IMG_3060.jpg)*varnished box*
 
+![varnished top part (Hand-bloc)](../images/paint/IMG_4450.jpg)*varnished top part (Hand-bloc)*
 
-## Laser-cutting
-+ bond mirror film with cardboard before lasering!
-+ load provided illustrator file ```bellow``` to your laser-cutter
-+ try cut settings with test piece of mounted mirror-film on cardboard
-+ laser-cut sheet
-+ have the metal piece professionally produced, all holes with need to have a M3 female screw thread
+![varnished top parts (from left to right: hand-bloc, finger part, top part ring)](../images/paint/IMG_4443.jpg)*varnished top parts (from left to right: hand-bloc, finger part, top part ring)*
 
+## spachteln
 
-## Prepairing Coating
+<span class="note">You should use a 2K putty to fill gaps and dents in between parts or on surface. To prepare putty follow instructions on package. It is a good idea to apply putty in between layers of grounding coates, because most filling pastes need to be covered with a primer before applying final colour. For really big gaps you can apply putty even before applying first layer of filler.</span>
 
-for the following steps it is recommended to work in pairs of two
+![Apply 2K fine putty on sanded box where necessary. Have a look especially at the round edges where lower box parts were glued together](../images/paint/IMG_2505.jpg)*Apply 2K fine putty on sanded box where necessary. Have a look especially at the round edges where lower box parts were glued together*
 
-![cut transfer adhesive film to 50 x 100cm](../Bild/balgenbauen/IMG_2145.jpg)
+<span class="note">Repeat this procedure after applying first layer of filler if neccessary.</span>
 
-![removing film from paper, start at one courner and pull diagonal and parallel to surface](../Bild/balgenbauen/IMG_0415.jpg)
+![lower box after filling an sanding once with additional 2k fine putty just applied ready to dry](../images/paint/IMG_2770.jpg)*lower box after filling an sanding once with additional 2k fine putty just applied ready to dry*
 
-![One positions the transparent film parallel to the end of lasered sheet (mirrored side up!) the other is holding up the other end of the film. take care that the film has a more or less überstand at each side of the cardboard](../Bild/balgenbauen/IMG_2164.jpg)
+## sanding
 
-![use cloth pressing foil to cardboard, move slowly from one end of the cardboard to the other while brushing from left to right](../Bild/balgenbauen/IMG_2480.jpg)
++ sanding block (cork)
++ sandpaper (P240, P400)
 
-![transparent film properly mounted on sheet](../Bild/balgenbauen/IMG_0459.jpg)
+<span class="note">The lower box needs to be sanded in between applying layers of ground coat. The first layer should be sanded with P240 beacause you will have to sand off redundant putty. For the second layer you should use P400 paper, fold it in half and sand by hand.</span>
 
-![cut moscito net to 50 x 100cm](../Bild/balgenbauen/C0014T01.jpg)
+![Do not worry if you will sand off filler at certain areas. You will have to apply a sencond layer anyways. It is most important to end up with an even surface after the first round of sanding. That way you will have less problems sanding the second layer of filler.](../images/paint/IMG_2791.jpg)*Do not worry if you will sand off filler at certain areas. You will have to apply a sencond layer anyways. It is most important to end up with an even surface after the first round of sanding. That way you will have less problems sanding the second layer of filler.*
 
-![apply adhesive spray on cardboard](../Bild/balgenbauen/IMG_2201.jpg)
+![for sanding lower box use a corc bloc to fold sending paper around. Sand in circular movement. round off edges!](../images/paint/IMG_2901.jpg)*for sanding lower box use a corc bloc to fold sending paper around. Sand in circular movement. round off edges!*
 
-![apply adhesive spray on moscito net](../Bild/balgenbauen/IMG_1260.jpg)
+![after sanding the surface should be evenly wan](../images/paint/IMG_2905.jpg)*after sanding the surface should be evenly wan*
 
-wait about 10 min before mounting moscito net on cardboard, adhesive spray needs to be dry
 
-![mounting moscito net on cardboard the same way as transparent adhesive film was mounted before, adjust position of net with hand if necessary, avoid wrinkles!](../Bild/balgenbauen/IMG_2525.jpg)
+## Taping
 
-![using a rubber role to apply even and pressure. Not time but amount of pressure matters with using adhesive spray](../Bild/balgenbauen/IMG_1276.jpg)
+<span class="note">before varnishing tape needs to be applyed carefully on every area which is not supposed to be covered by varnish. This includes surfaces where capacativ sensors will be attached to, holes for screws (top part and lower box) and the area where the lipo-charger will be glued on.</span>
 
-## Coating
++ tape
++ pointed wooden stick or something similiar to get into small corners
++ cutter
 
-![tape material to working surface, it should be strapped under tension](../Bild/balgenbauen/IMG_2619.jpg)
+![using pointed wooden sticks for applying tape on capacativ sensing area for the thumb](../images/paint/IMG_3050.jpg)*using pointed wooden sticks for applying tape on capacativ sensing area for the thumb*
 
-put on vynil gloves, and repeat coating three times. thin layers of latex are better, wait for one layer to fully dry until you apply the next layer. this takes more or less 2 hours.
+![using pointed wooden sticks for applying tape on capacativ sensing area for the fingers](../images/paint/IMG_3009.jpg)*using pointed wooden sticks for applying tape on capacativ sensing area for the fingers*
 
-![pour more or less 300m of liquid latex on material](../Bild/balgenbauen/IMG_2231.jpg)
+![cutting of extra tape off close to edges of part](../images/paint/IMG_3072.jpg)*cutting of extra tape off close to edges of part*
 
-![spread liquid latex on surface evenly](../Bild/balgenbauen/IMG_2235.jpg)
+![area where tape needs to be applied on top part ring](../images/paint/IMG_3145.jpg)*area where tape needs to be applied on top part ring*
 
-![the more diagonal you hold the rubber spreader the easyer you can spread the latex into the moscito net](../Bild/balgenbauen/IMG_1925.jpg)
+![top- and finger-parts positioned on lackierzulagen ready to be varnished, holes and capacative sensing areas covered with tape](../images/paint/IMG_3170.jpg)*top- and finger-parts positioned on lackierzulagen ready to be varnished, holes and capacative sensing areas covered with tape*
 
-![take care of the edges, they should be covered fully by latex](../Bild/balgenbauen/IMG_1578.jpg)
+## Wet Sanding
 
-![coated material, avoid dabs, if they happen spread them with your fingertip](../Bild/balgenbauen/IMG_1574.jpg)
++ sanding block (cork, acrylic resin)
++ sandpaper (P200, P400, P600)
++ bowl of water
++ papertowels
 
 
 
-## Prepairing Putting
+Wet sanding sanding is necessary between applying layers of filler and varnish on all 3D printed plastic parts. Do not sand after applying the plastic primer! Depending on which spray putty you use you probably wont have to sand either.
 
-![dettach material from surface and cut allong the edges](../Bild/balgenbauen/IMG_2099.jpg)
+![start sanding the 3D printed parts with P400 after you have applied the plastic primer, spray putty and a first layer of filler. sand wet, meaning that you should stick the sanding paper into water everey once in a while and use an acylic glas bloc to fold sandin paper around. For small surfaces and edges fold sanding paper in half and use your fingers.](../images/paint/IMG_4388.jpg)*start sanding the 3D printed parts with P400 after you have applied the plastic primer, spray putty and a first layer of filler. sand wet, meaning that you should stick the sanding paper into water everey once in a while and use an acylic glas bloc to fold sandin paper around. For small surfaces and edges fold sanding paper in half and use your fingers.*
 
-![](../Bild/balgenbauen/IMG_2603.jpg)
+![after sanding dry each part with paper towel. make sure that surfaces are evenly wan.](../images/paint/IMG_4374.jpg)*after sanding dry each part with paper towel. make sure that surfaces are evenly wan.*
 
-![](../Bild/balgenbauen/IMG_2395.jpg)
+## Varneshing Top Parts
 
-![cut wholes into material with punch (TODO: FOTO MACHEN)](../Bild/balgenbauen/C0009T01.jpg)
+Before varnishing 3D printed parts plastic primer needs to be applied, otherwise the varnish wont stick to the surface. Wait approxamately for 30min (see instructions on primer). Do not sand! Directly apply spray putty afterwards. In general: When you spray paint it is always a good idea to apply two thinner layers than on thicker layer. Paint tends to drip and leaves unpleasant noses on the surface. Same thing holds true for spray putty and filler, even they have less viscosity. Spray upright surfaces from bottom to top. Keep even distance and angle to surfaces and move from left to right with an approximate even speed. It is all about even layer thickness especially when it comes to sanding later on!
 
-![remove adhesive transfer film from the mirror side of the material. it is very important to remove it by pulling slowy and parallel to surface. that way you won't rip latex out of the spacings within the material](../Bild/balgenbauen/IMG_2124.jpg)
+![Applying plastic primer on top part ring. Edges should be sprayed in 45 degree angle, surfaces rectangular. ](../images/paint/IMG_3715.jpg)*Applying plastic primer on top part ring. Edges should be sprayed in 45 degree angle, surfaces rectangular.*
 
+![make sure to cover bottom edges as well, when applying spray putty, filler and varnish!](../images/paint/IMG_3903.jpg)*make sure to cover bottom edges as well, when applying spray putty, filler and varnish!*
 
-## Putting
+![turn top part rings by grabbing them from the inside. note that the wooden plates are smaller in the rings footprint! that way wet edges wont stick to the ground while drying.](../images/paint/IMG_3908.jpg)*turn top part rings by grabbing them from the inside. note that the wooden plates are smaller in the rings footprint! that way wet edges wont stick to the ground while drying.*
 
-Again for the following steps it is much easier to work with somebody who can give you hand.
+![Applying varnish on top part hand-bloc after having sufficiently filled and sanded surfaces. note that it is a good idea starting with the upright surfaces all around and then work your way over the top edges towards the top surfaces.](../images/paint/IMG_4406.jpg)*Applying varnish on top part hand-bloc after having sufficiently filled and sanded surfaces. note that it is a good idea starting with the upright surfaces all around and then work your way over the top edges towards the top surfaces.*
 
+![turning top part so that front sides can be varnished.](../images/paint/IMG_4412.jpg)*turning top part so that front sides can be varnished.*
 
-![put a log of wood in the middle of material as supporting structure during putting process](../Bild/balgenbauen/IMG_2667.jpg)
+![working your way over the edges (with 45 degree angle) to the to surfaces (with a 90 degree angle).](../images/paint/IMG_4416.jpg)**working your way over the edges (with 45 degree angle) to the to surfaces (with a 90 degree angle).
 
-![put the strip of adhesive film on the log (adhesive side up) and fix it with tape at each end of the log](../Bild/balgenbauen/IMG_2668.jpg)
 
-![bend one half of the sheet towards the adhesive foil on the log so that it sticks there](../Bild/balgenbauen/IMG_2678.jpg)
+## Varneshing Lower Box
 
-![bend the other half](../Bild/balgenbauen/IMG_3021.jpg)
+The lower box needs to be ground coated with a a appropriate filler. This closes the the surface and protects coloured varnish from sinking into the pores of the material. Similiar to the platic parts filler should rather be applyed in several thin layers than in one thick layer which will take forever to dry.
 
-![start at one end putting both ends together](../Bild/balgenbauen/IMG_2684.jpg)
+![To varnish lower box you should use 2 triangular sticks to put parts on](../images/paint/IMG_2810.jpg)*To varnish lower box you should use 2 triangular sticks to put parts on*
 
-![slowly moving up, triangle need to interlock](../Bild/balgenbauen/IMG_2689.jpg)
+![Move the spray paint in same speed and distance over the surface. Move from left to right and slowly from front to back. Then turn the piece in 90 degrees an di the same again. Wait for 30 minutes and spray the backside. The lid needs to be filled from both sides otherwise it might curve.](../images/paint/IMG_2806.jpg)*Move the spray paint in same speed and distance over the surface. Move from left to right and slowly from front to back. Then turn the piece in 90 degrees an di the same again. Wait for 30 minutes and spray the backside. The lid needs to be filled from both sides otherwise it might curve.*
 
-![cut strip of latex textile 4 x 95cm](../Bild/balgenbauen/IMG_2656.jpg)
+![For the last layer of filler and final varnish put lid into box and spray them all together. Put srews in the wholes of the box to have feet to stand on and to protect them from filling up with paint.](../images/paint/IMG_2859.jpg)*For the last layer of filler and final varnish put lid into box and spray them all together. Put srews in the wholes of the box to have feet to stand on and to protect them from filling up with paint.*
 
-![apply a 4cm wide strip contact clue on bellowseam](../Bild/balgenbauen/IMG_2915.jpg)
+![final layer of filler. Aim to end up with an even an closed surface. Sand on last time. ](../images/paint/IMG_2815.jpg)*final layer of filler. Aim to end up with an even an closed surface. Sand on last time.*
 
-![apply contact clue on latex textile strip](../Bild/balgenbauen/IMG_2709.jpg)
+![Spray upright surfaces and bottom part first. Wait for 30minutes.](../images/paint/IMG_3059.jpg)*Spray upright surfaces and bottom part first. Wait for 30minutes.*
 
-![when glue has fully dried glue strib to seam by applying pressure with rubber role](../Bild/balgenbauen/IMG_2724.jpg)
+![Turn box around and paint upright surfaces and lid.](../images/paint/IMG_2981.jpg)*Turn box around and paint upright surfaces and lid.*
 
-![](../Bild/balgenbauen/IMG_2731.jpg)
-
-![apply latex with brush along the edges of strips](../Bild/balgenbauen/IMG_2926.jpg)
-
-![spreading latex with fingertips](../Bild/balgenbauen/IMG_2922.jpg)
-
-
-## Folding
-
-![cut the edges of the short ribs at each side of the bellow](../Bild/balgenbauen/IMG_3022.jpg)
-
-![apply talcum evenly on surface](../Bild/balgenbauen/IMG_3037.jpg)
-
-![](../Bild/balgenbauen/IMG_2972.jpg)
-
-![fold bellow](../Bild/balgenbauen/IMG_0264.jpg)
-
-![](../Bild/balgenbauen/IMG_3102.jpg)
-
-![clamp bellow over night so it will stay in folded position. It it not necessary to apply a lot of pressure. Just that its stable.](../Bild/balgenbauen/IMG_3239.jpg)
-
-
-## Glueing
-
-while glueing in the metall frames at each end of the bellow work with another person. before glueing make sure metall parts are fat and dust free. Glue one frame at a time since the epoxy hardens quiet fast!
-
-![put metall frame inside the last fold of the bellow, make sure that the holes ar in the same positions as in the bellow and apply a thin layer of epoxy in between the holes. leave 1cm space between holes and epoxy to make sure that no glue will go into the female screw thread](../Bild/balgenbauen/IMG_3301.jpg)
-
-![fold the end of the bellow around the metall](../Bild/balgenbauen/IMG_3305.jpg)
-
-![](../Bild/balgenbauen/IMG_3307.jpg)
-
-![clamp bellow, not to apply a lot of pressure, rather to stabalise the last foldings of the bellow](../Bild/balgenbauen/IMG_3312.jpg)
-
-![let sit until epoxy is hardened](../Bild/balgenbauen/IMG_3314.jpg)
-
-![apply latex on the naked metal at each end of the bellow](../Bild/balgenbauen/IMG_3481.jpg)
-
-![done!](../Bild/balgenbauen/IMG_3491.jpg)

@@ -22,41 +22,76 @@ materials:
     - nested: adhesive film (mirror), (48 x 95 cm)
     - nested: adhesive film (transfer), (50 x 100 cm)
 ---
+## Steps
 
-## auszeichnungen (h2 'doppelraute am anfang')
+* laser cutting
+* prepairing coating
+* coating
+* prepairing putting
+* putting
+* folding
+* Glueing
 
-Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. Eines Tages aber beschloß eine kleine Zeile Blindtext, ihr Name war Lorem Ipsum, hinaus zu gehen in die weite Grammatik. (fließtext ohne auszeichnung)
+## Tools
 
-**fett (strong 'doppelsternchen vorne und hinten')**
+* laser-cutter
+* coating preparation
+    - cutter
+    - cutter ruler
+    - tape
+	- gummi walze
+* coating
+	- messbecher
+	- rubber spreader
+	- vinyl gloves
+* putting preparation
+	- scisors
+	- locheisen (5mm)
+* putting
+    - zulage
+    - tape
+    - gummiwalze
+	- vinyl gloves
+	- brush (for applying latex)
+* folding
+    - scissors
+    - brush (for applying talcum)
+	- 2 c-clamps
+	- 2 Zulagen
+* glueing
+	- stick (for applying glue)
+	- vinyl gloves
+	- 2 c-clamps
+	- 2 Zulagen
+	- paper
+	
+### Files
 
-*italic (em 'einfaches sternchen vorne und hinten -> bildunterschriften')*
++ file for laser cutting cardboard 
++ file for lasercutting metall
 
+## Materials
 
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
++ cardboard, XXmm, (48 x 95 cm)
++ adhesive film (mirror), (48 x 95 cm)
++ adhesive film (transfer), (50 x 100 cm)
++ moscito net (50 x 100 cm)
++ liquid latex (1l, thick)
++ strip of latex-textile (4 x 95cm)
++ strip of transparent adhesive film (4 x 95cm)
++ talcum
++ piece of metall (XXmm x XXmm x XXmm)
++ weicon adhesive spray
++ pattex transparent
++ epoxy
 
-code syntax:
-{ % highlight ruby %}
-{ % endhighlight %}
+![all you need](../images/bellow/IMG_1102.jpg)*tools and some of the materials*
 
-{% endhighlight %}
-
-
-<span class="note">note ('< span class="note">< /span> ohne das leerzeichen nach spitze klammer auf)</span>
-
-
-![all you need](../images/bellow/IMG_1102.jpg)
-
-
-## Workspace
-
-no picture
+TODO: Make picture of workspace (?)
 
 ## End Result
 
-![folded bellow with metall frames](../images/bellow/IMG_4282.jpg)
+![folded bellow with metall frames](../images/bellow/IMG_4282.jpg)*folded bellow with metall frames*
 
 
 ## Laser-cutting
@@ -66,9 +101,11 @@ no picture
 + laser-cut sheet
 + have the metal piece professionally produced, all holes with need to have a M3 female screw thread
 
+TODO: foto of laser cutted sheet and metal frames
+
 ## Prepairing Coating
 
-**for the following steps it is recommended to work in pairs of two**
+<span class="note">for the following steps it is recommended to work in pairs of two</span>
 
 ![](../images/bellow/IMG_2145.jpg)
 *cut transfer adhesive film to 50 x 100cm*
@@ -79,114 +116,114 @@ no picture
 ![](../images/bellow/IMG_2164.jpg)
 *One positions the transparent film parallel to the end of lasered sheet (mirrored side up!) the other is holding up the other end of the film. take care that the film has a more or less überstand at each side of the cardboard*
 
-![use cloth pressing foil to cardboard, move slowly from one end of the cardboard to the other while brushing from left to right](../images/bellow/IMG_2480.jpg)
+![use cloth pressing foil to cardboard, move slowly from one end of the cardboard to the other while brushing from left to right](../images/bellow/IMG_2480.jpg)*use cloth pressing foil to cardboard, move slowly from one end of the cardboard to the other while brushing from left to right*
 
-![transparent film properly mounted on sheet](../images/bellow/IMG_0459.jpg)
+![transparent film properly mounted on sheet](../images/bellow/IMG_0459.jpg)*transparent film properly mounted on sheet*
 
-![cut moscito net to 50 x 100cm](../images/bellow/C0014T01.jpg)
+![cut moscito net to 50 x 100cm](../images/bellow/C0014T01.jpg)*cut moscito net to 50 x 100cm*
 
-![apply adhesive spray on cardboard](../images/bellow/IMG_2201.jpg)
+![apply adhesive spray on cardboard](../images/bellow/IMG_2201.jpg)*apply adhesive spray on cardboard*
 
-![apply adhesive spray on moscito net](../images/bellow/IMG_1260.jpg)
+![apply adhesive spray on moscito net](../images/bellow/IMG_1260.jpg)*apply adhesive spray on moscito net*
 
-wait about 10 min before mounting moscito net on cardboard, adhesive spray needs to be dry
+<span class="note">wait about 10 min before mounting moscito net on cardboard, adhesive spray needs to be dry</span>
 
-![mounting moscito net on cardboard the same way as transparent adhesive film was mounted before, adjust position of net with hand if necessary, avoid wrinkles!](../images/bellow/IMG_2525.jpg)
+![mounting moscito net on cardboard the same way as transparent adhesive film was mounted before, adjust position of net with hand if necessary, avoid wrinkles!](../images/bellow/IMG_2525.jpg)*mounting moscito net on cardboard the same way as transparent adhesive film was mounted before, adjust position of net with hand if necessary, avoid wrinkles!*
 
-![using a rubber role to apply even and pressure. Not time but amount of pressure matters with using adhesive spray](../images/bellow/IMG_1276.jpg)
+![using a rubber role to apply even and pressure. Not time but amount of pressure matters with using adhesive spray](../images/bellow/IMG_1276.jpg)*using a rubber role to apply even and pressure. Not time but amount of pressure matters with using adhesive spray*
 
 ## Coating
 
-![tape material to working surface, it should be strapped under tension](../images/bellow/IMG_2619.jpg)
-
 <span class="note">put on vynil gloves, and repeat coating three times. thin layers of latex are better, wait for one layer to fully dry until you apply the next layer. this takes more or less 2 hours.</span>
 
-![pour more or less 300m of liquid latex on material](../images/bellow/IMG_2231.jpg)
+![tape material to working surface, it should be strapped under tension](../images/bellow/IMG_2619.jpg)*tape material to working surface, it should be strapped with a proper amount of tension*
 
-![spread liquid latex on surface evenly](../images/bellow/IMG_2235.jpg)
+![pour more or less 300m of liquid latex on material](../images/bellow/IMG_2231.jpg)*pour more or less 300m of liquid latex on material*
 
-![the more diagonal you hold the rubber spreader the easyer you can spread the latex into the moscito net](../images/bellow/IMG_1925.jpg)
+![spread liquid latex on surface evenly](../images/bellow/IMG_2235.jpg)*spread liquid latex on surface evenly*
 
-![take care of the edges, they should be covered fully by latex](../images/bellow/IMG_1578.jpg)
+![the more diagonal you hold the rubber spreader the easyer you can spread the latex into the moscito net](../images/bellow/IMG_1925.jpg)*the more diagonal you hold the rubber spreader the easyer you can spread the latex into the moscito net*
 
-![coated material, avoid dabs, if they happen spread them with your fingertip](../images/bellow/IMG_1574.jpg)
+![take care of the edges, they should be covered fully by latex](../images/bellow/IMG_1578.jpg)*take care of the edges, they should be covered fully by latex*
+
+![coated material, avoid dabs, if they happen spread them with your fingertip](../images/bellow/IMG_1574.jpg)*coated material, avoid dabs, if they happen spread them with your fingertip*
 
 
 
 ## Prepairing Putting
 
-![dettach material from surface and cut allong the edges](../images/bellow/IMG_2099.jpg)
+![detach material from surface and cut allong the edges](../images/bellow/IMG_2099.jpg)*detach material from surface and cut allong the edges*
 
-![](../images/bellow/IMG_2603.jpg)
+![](../images/bellow/IMG_2603.jpg)*here as shown on the sides*
 
-![](../images/bellow/IMG_2395.jpg)
+![](../images/bellow/IMG_2395.jpg)*here as shown on the bottom part*
 
-![cut wholes into material with punch (TODO: FOTO MACHEN)](../images/bellow/C0009T01.jpg)
+![cut wholes into material with punch (TODO: FOTO MACHEN)](../images/bellow/C0009T01.jpg)*cut wholes into material with punch TODO: foto mit locheisen machen!*
 
-![remove adhesive transfer film from the mirror side of the material. it is very important to remove it by pulling slowy and parallel to surface. that way you won't rip latex out of the spacings within the material](../images/bellow/IMG_2124.jpg)
+![remove adhesive transfer film from the mirror side of the material. it is very important to remove it by pulling slowy and parallel to surface. that way you won't rip latex out of the spacings within the material](../images/bellow/IMG_2124.jpg)*remove adhesive transfer film from the mirror side of the material. it is very important to remove it by pulling slowy, parallel and close to the surface. that way you won't rip latex out of the spacings in between the material*
 
 
 ## Putting
 
-Again for the following steps it is much easier to work with somebody who can give you hand.
+<span class="note">Again for the following steps it is much easier to work with somebody who can give you hand.</span>
 
 
-![put a log of wood in the middle of material as supporting structure during putting process](../images/bellow/IMG_2667.jpg)
+![put a log of wood in the middle of material as supporting structure during putting process](../images/bellow/IMG_2667.jpg)*put a log of wood in the middle of coated sheet as supporting structure during the putting process*
 
-![put the strip of adhesive film on the log (adhesive side up) and fix it with tape at each end of the log](../images/bellow/IMG_2668.jpg)
+![put the strip of adhesive film on the log (adhesive side up) and fix it with tape at each end of the log](../images/bellow/IMG_2668.jpg)*put the strip of adhesive film on the log (adhesive side up) and fix it with tape at each end of the log*
 
-![bend one half of the sheet towards the adhesive foil on the log so that it sticks there](../images/bellow/IMG_2678.jpg)
+![bend one half of the sheet towards the adhesive foil on the log so that it sticks there](../images/bellow/IMG_2678.jpg)*bend one half of the sheet towards the adhesive foil on the log so that it sticks there*
 
-![bend the other half](../images/bellow/IMG_3021.jpg)
+![bend the other half](../images/bellow/IMG_3021.jpg)*bend the other half*
 
-![start at one end putting both ends together](../images/bellow/IMG_2684.jpg)
+![start at one end putting both ends together](../images/bellow/IMG_2684.jpg)*start at one end putting both ends together*
 
-![slowly moving up, triangle need to interlock](../images/bellow/IMG_2689.jpg)
+![slowly moving up, triangle need to interlock](../images/bellow/IMG_2689.jpg)*slowly moving up, triangle need to interlock*
 
-![cut strip of latex textile 4 x 95cm](../images/bellow/IMG_2656.jpg)
+![cut strip of latex textile 4 x 95cm](../images/bellow/IMG_2656.jpg)*cut strip of latex textile 4 x 95cm*
 
-![apply a 4cm wide strip contact clue on bellowseam](../images/bellow/IMG_2915.jpg)
+![apply a 4cm wide strip contact clue on bellowseam](../images/bellow/IMG_2915.jpg)*apply a 4 cm wide strip contact clue on bellowseam*
 
-![apply contact clue on latex textile strip](../images/bellow/IMG_2709.jpg)
+![apply contact clue on latex textile strip](../images/bellow/IMG_2709.jpg)*apply contact glue on latex textile strip*
 
-![when glue has fully dried glue strib to seam by applying pressure with rubber role](../images/bellow/IMG_2724.jpg)
+![when glue has fully dried glue strib to seam by applying pressure with rubber role](../images/bellow/IMG_2724.jpg)*when the glue has fully dried glue strip to seam by applying pressure with rubber role*
 
-![](../images/bellow/IMG_2731.jpg)
+![](../images/bellow/IMG_2731.jpg)*bellow with proper applied strip*
 
-![apply latex with brush along the edges of strips](../images/bellow/IMG_2926.jpg)
+![apply latex with brush along the edges of strips](../images/bellow/IMG_2926.jpg)*apply latex with brush along the edges of the strip*
 
-![spreading latex with fingertips](../images/bellow/IMG_2922.jpg)
+![spreading latex with fingertips](../images/bellow/IMG_2922.jpg)*spreading latex with fingertips*
 
 
 ## Folding
 
-![cut the edges of the short ribs at each side of the bellow](../images/bellow/IMG_3022.jpg)
+![cut the edges of the short ribs at each side of the bellow](../images/bellow/IMG_3022.jpg)*cut the edges of the short ribs at each side of the bellow*
 
-![apply talcum evenly on surface](../images/bellow/IMG_3037.jpg)
+![apply talcum evenly on surface](../images/bellow/IMG_3037.jpg)*apply talcum evenly on surface*
 
 ![](../images/bellow/IMG_2972.jpg)
 
-![fold bellow](../images/bellow/IMG_0264.jpg)
+![fold bellow](../images/bellow/IMG_0264.jpg)*fold bellow*
 
-![](../images/bellow/IMG_3102.jpg)
+![](../images/bellow/IMG_3102.jpg)*copletely folded bellow*
 
-![clamp bellow over night so it will stay in folded position. It it not necessary to apply a lot of pressure. Just that its stable.](../images/bellow/IMG_3239.jpg)
+![clamp bellow over night so it will stay in folded position. It it not necessary to apply a lot of pressure. Just that its stable.](../images/bellow/IMG_3239.jpg)*clamp bellow over night so it will stay in folded position. It it not necessary to apply a lot of pressure. Just that its stable.*
 
 
 ## Glueing
 
-while glueing in the metall frames at each end of the bellow work with another person. before glueing make sure metall parts are fat and dust free. Glue one frame at a time since the epoxy hardens quiet fast!
+<span class="note">while glueing in the metall frames at each end of the bellow work with another person. before glueing make sure metall parts are fat and dust free. Glue one frame at a time since the epoxy hardens quiet fast!</span>
 
-![put metall frame inside the last fold of the bellow, make sure that the holes ar in the same positions as in the bellow and apply a thin layer of epoxy in between the holes. leave 1cm space between holes and epoxy to make sure that no glue will go into the female screw thread](../images/bellow/IMG_3301.jpg)
+![put metall frame inside the last fold of the bellow, make sure that the holes ar in the same positions as in the bellow and apply a thin layer of epoxy in between the holes. leave 1cm space between holes and epoxy to make sure that no glue will go into the female screw thread](../images/bellow/IMG_3301.jpg)*put metall frame inside the last fold of the bellow, make sure that the holes ar in the same positions as in the bellow and apply a thin layer of epoxy in between the holes. leave 1cm space between holes and epoxy to make sure that no glue will go into the female screw thread*
 
-![fold the end of the bellow around the metall](../images/bellow/IMG_3305.jpg)
+![fold the end of the bellow around the metall](../images/bellow/IMG_3305.jpg)*fold the end of the bellow around the metall*
 
-![](../images/bellow/IMG_3307.jpg)
+![](../images/bellow/IMG_3307.jpg)*take care that holes of metall frames and below are aligned*
 
-![clamp bellow, not to apply a lot of pressure, rather to stabalise the last foldings of the bellow](../images/bellow/IMG_3312.jpg)
+![clamp bellow, not to apply a lot of pressure, rather to stabalise the last foldings of the bellow](../images/bellow/IMG_3312.jpg)*clamp bellow, not to apply a lot of pressure, rather to stabalise the last foldings of the bellow*
 
-![let sit until epoxy is hardened](../images/bellow/IMG_3314.jpg)
+![let sit until epoxy is hardened](../images/bellow/IMG_3314.jpg)*let it sit until epoxy is hardened*
 
-![apply latex on the naked metal at each end of the bellow](../images/bellow/IMG_3481.jpg)
+![apply latex on the naked metal at each end of the bellow](../images/bellow/IMG_3481.jpg)*apply latex on the naked metal edges at each end of the bellow*
 
-![done!](../images/bellow/IMG_3491.jpg)
+![done!](../images/bellow/IMG_3491.jpg)*done!*
