@@ -8,11 +8,11 @@ tools:
    nested-tools:
     - nested: cutter
     - nested: cutter ruler
- - top-level: coatinig
+    - nested: tape
+    - nested: gummi walze
+ - top-level: coating
    nested-tools:
     - nested: messbecher
- - top-level: putting prparation
- - top-level: folding
 files:
 - top-level: blablabla.pdf
 - top-level: ugugug.pdf
@@ -22,24 +22,9 @@ materials:
     - nested: adhesive film (mirror), (48 x 95 cm)
     - nested: adhesive film (transfer), (50 x 100 cm)
 ---
-## Steps
-
-* laser cutting
-* prepairing coating
-* coating
-* prepairing putting
-* putting
-* folding
-* Glueing
 
 ## Tools
 
-* laser-cutter
-* coating preparation
-    - cutter
-    - cutter ruler
-    - tape
-	- gummi walze
 * coating
 	- messbecher
 	- rubber spreader
