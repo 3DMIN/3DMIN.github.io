@@ -6,69 +6,52 @@ tools:
  - top-level: laser-cutter
  - top-level: coating preparation
    nested-tools:
-    - nested: cutter
-    - nested: cutter ruler
-    - nested: tape
-    - nested: gummi walze
- - top-level: coating
-   nested-tools:
     - nested: messbecher
+    - nested: rubber spreader
+    - nested: vinyl gloves
+ - top-level: putting preparation
+   nested-tools:
+    - nested: scissors
+    - nested: locheisen (5mm)
+ - top-level: putting
+   nested-tools:
+    - nested: zulage
+    - nested: tape
+    - nested: gummiwalze
+    - nested: vinyl gloves
+    - nested: brush (for applying latex)
+ - top-level: folding
+   nested-tools:
+    - nested: scissors
+    - nested: brush (for applying talcum)
+    - nested: 2 c-clamps
+    - nested: 2 Zulagen
+ - top-level: glueing
+   nested-tools:
+    - nested: stick (for applying glue)
+    - nested: vinyl gloves
+    - nested: 2 c-clamps
+    - nested: 2 Zulagen
+    - nested: paper
 files:
-- top-level: blablabla.pdf
-- top-level: ugugug.pdf
+- top-level: LasercutBellow.pdf
+- top-level: Metallframes.pdf
 materials:
 - top-level: cardboard
   nested-materials:
+    - nested: cardboard, XXmm, (48 x 95 cm)
     - nested: adhesive film (mirror), (48 x 95 cm)
     - nested: adhesive film (transfer), (50 x 100 cm)
+    - nested: moscito net (50 x 100 cm)
+    - nested: liquid latex (1l, thick)
+    - nested: strip of latex-textile (4 x 95cm)
+    - nested: strip of transparent adhesive film (4 x 95cm)
+    - nested: talcum
+    - nested: piece of metall (XXmm x XXmm x XXmm)
+    - nested: weicon adhesive spray
+    - nested: pattex transparent
+    - nested: epoxy
 ---
-
-## Tools
-
-* coating
-	- messbecher
-	- rubber spreader
-	- vinyl gloves
-* putting preparation
-	- scisors
-	- locheisen (5mm)
-* putting
-    - zulage
-    - tape
-    - gummiwalze
-	- vinyl gloves
-	- brush (for applying latex)
-* folding
-    - scissors
-    - brush (for applying talcum)
-	- 2 c-clamps
-	- 2 Zulagen
-* glueing
-	- stick (for applying glue)
-	- vinyl gloves
-	- 2 c-clamps
-	- 2 Zulagen
-	- paper
-	
-### Files
-
-+ file for laser cutting cardboard 
-+ file for lasercutting metall
-
-## Materials
-
-+ cardboard, XXmm, (48 x 95 cm)
-+ adhesive film (mirror), (48 x 95 cm)
-+ adhesive film (transfer), (50 x 100 cm)
-+ moscito net (50 x 100 cm)
-+ liquid latex (1l, thick)
-+ strip of latex-textile (4 x 95cm)
-+ strip of transparent adhesive film (4 x 95cm)
-+ talcum
-+ piece of metall (XXmm x XXmm x XXmm)
-+ weicon adhesive spray
-+ pattex transparent
-+ epoxy
 
 ![all you need](../images/bellow/IMG_1102.jpg)*tools and some of the materials*
 
@@ -85,6 +68,10 @@ TODO: Make picture of workspace (?)
 + try cut settings with test piece of mounted mirror-film on cardboard
 + laser-cut sheet
 + have the metal piece professionally produced, all holes with need to have a M3 female screw thread
+
+## Metallframes
+
+We highly recommend having all metall parts produced professionally according to our technical drawings.
 
 TODO: foto of laser cutted sheet and metal frames
 
