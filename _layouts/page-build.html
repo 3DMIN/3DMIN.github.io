@@ -13,7 +13,7 @@
 				<div class="column">
 					<div class="col-1">
 					<h1>Steps</h1>
-						{{ content | toc }}
+					<div class="toc-output"></div>	
 					</div>
 					<div class="col-1">
 						<h1>Tools</h1>
@@ -74,6 +74,40 @@
     </section>
 
     {% include footer.html %}
+	
+	
+	<script>
+		var ToC =
+		  "<nav role='navigation' class='table-of-contents'>" +
+		  "<ol>";
+		
+		var newLine, el, title, link;
+		
+		$(".column h2").each(function() {
+		
+		  el = $(this);
+		  title = el.text();
+		  link = "#" + el.attr("id");
+		
+		  newLine =
+		    "<li>" +
+		      "<a href='" + link + "'>" +
+		        title +
+		      "</a>" +
+		    "</li>";
+		
+		  ToC += newLine;
+		
+		});
+		
+		ToC +=
+		   "</ol>" +
+		  "</nav>";
+		
+		$(".toc-output").html(ToC);
+		
+		
+	</script>
 
   </body>
 </html>

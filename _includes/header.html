@@ -1,8 +1,9 @@
 <header class="site-header">
   	<nav class="nav-main">
     	<div class="wrapper">
+	    	<a class="start" href="/index.html#top">{{ site.title }}</a><span class="start">{{ page.url }}</span>
 	    	<ul>
-		    	<li><a class="start" href="/index.html#top">{{ site.title }}</a><span class="start">{{ page.url }}</span></li>
+		    	<li></li>
 		    		{% if page.url == "/" %}
 		    		{% assign sorted_pages = site.start | sort:"order" %}
 					{% for post in sorted_pages %}

@@ -29,7 +29,21 @@ nav.nav-main {
 	padding: 40px 0;
 	background: white;
 	width: 100%;
+	a.start, .start {
+			border: none !important;
+			font-family: 'Lato', sans-serif;
+			font-weight: 700;
+			color: black !important;
+			text-decoration: none;
+		}
+		.start {
+			font-weight: 400;
+			a:link, a:visited {
+				color: red !important;
+			}
+		}
 	ul {
+		float: right;
 		&:after {
 			display: block;
 			clear: both;
@@ -37,7 +51,7 @@ nav.nav-main {
 		}
 		li {
 			font-family: 'Inconsolata', ;
-			float: right;
+			float: left;
 			margin-left: 2em;
 			a:link {
 				padding: 12px 40px;
@@ -54,18 +68,7 @@ nav.nav-main {
 				}
 			}
 		}
-		a.start, .start {
-			border: none !important;
-			font-family: 'Lato', sans-serif;
-			font-weight: 700;
-			color: black !important;
-		}
-		.start {
-			font-weight: 400;
-			a:link, a:visited {
-				color: red !important;
-			}
-		}
+		
 		a.look, a.look:visited {
 			color: $look !important;
 			border: 2px solid $look;
@@ -305,7 +308,7 @@ body.build {
 		}
 		.fixed {
 			position: fixed;
-			top: 100px;
+			top: 150px;
 			display: none;
 			
 		}
