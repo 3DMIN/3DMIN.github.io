@@ -53,6 +53,9 @@ materials:
     - nested: epoxy
 ---
 
+This is a link to the Illustrator file for [laserctting the bellow](/sources/bellow/LasercutBellow.ai).
+
+
 ![all you need](../images/bellow/IMG_1102.jpg)*tools and some of the materials*
 
 TODO: Make picture of workspace (?)
