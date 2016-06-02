@@ -31,7 +31,7 @@
 						<h1>Files</h1>
 							{% for file in page.files %}
 							<ul>
-							<li><a href="{{file.top-level}}">{{ file.top-level | append:'</a>' }}{% if file.nested-files %}</li>
+							<li><a href="/sources/{{page.title}}/{{file.top-level}}">{{ file.top-level | append:'</a>' }}{% if file.nested-files %}</li>
 								<ul class="nested">
 								{% for nestedfile in file.nested-files %} 
 								<li>{{ nestedfile.nested }}</li>

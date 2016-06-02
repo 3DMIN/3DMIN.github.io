@@ -24,7 +24,7 @@ tools:
     - nested: two triangular sticks for varnishing lower box
     - nested: support for varnishing elements of top part
 files:
-- top-level: TODO-odf.pdf
+- top-level: HandteilCapSensAufnahme.STL
 materials:
 - top-level: 2K fine filler
 - top-level: plastic primer
