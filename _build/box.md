@@ -43,7 +43,7 @@ materials:
 
 
 
-## Workspace
+### Workspace
 
 ![Tabletop with vise](/images/box/IMG_2513.jpg)
 *Tabletop with vise*
@@ -65,7 +65,7 @@ materials:
 
 
 
-## End Result
+### End Result
 
 ![Glued box from the front](/images/box/IMG_2171.jpg)
 *Glued box from the front*

@@ -53,6 +53,8 @@ materials:
     - nested: epoxy
 ---
 
+### Tools
+
 This is a link to the Illustrator file for [lasercutting the bellow](/sources/bellow/LasercutBellow.ai).
 
 
@@ -60,7 +62,7 @@ This is a link to the Illustrator file for [lasercutting the bellow](/sources/be
 
 TODO: Make picture of workspace (?)
 
-## End Result
+### End Result
 
 ![folded bellow with metall frames](/images/bellow/IMG_4282.jpg)*folded bellow with metall frames*
 

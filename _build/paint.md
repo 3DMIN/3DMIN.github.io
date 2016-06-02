@@ -30,7 +30,7 @@ materials:
 ---
 
 
-## Tools
+### Tools
 
 ![device to varnish solid parts: hand-bloc and top part ring (it is important that wet varnished edges do not touch the ground!)](/images/paint/IMG_3916.jpg)
 *The device to varnish solid parts: hand-bloc and top part ring (it is important that wet varnished edges do not touch the ground!)*
@@ -39,7 +39,7 @@ materials:
 *The device to varnish finger parts*
 
 
-## Workspace
+### Workspace
 
 ![workspace (wet) sanding](/images/paint/IMG_4477.jpg)
 *workspace (wet) sanding*
@@ -47,7 +47,7 @@ materials:
 ![workspace varnishing](/images/paint/IMG_2860.jpg)
 *workspace varnishing*
 
-## End result
+### End result
 
 ![varnished box](/images/paint/IMG_3060.jpg)
 *varnished box*

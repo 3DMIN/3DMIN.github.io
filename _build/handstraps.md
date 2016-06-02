@@ -17,12 +17,12 @@ materials:
 ---
 
 
-## Workspace
+### Workspace
 
 ![photo of workspace](/images/handstraps/IMG_5406.jpg)
 
 
-## End Result
+### End Result
 
 ![result](/images/handstraps/IMG_4915.jpg)
 ![result](/images/handstraps/IMG_4910.jpg)

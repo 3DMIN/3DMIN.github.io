@@ -20,20 +20,20 @@ materials:
 
 
 
-## Materials
+### Materials
 
 ![Rainbow ribbon cable](/images/cables/IMG_2561.jpg)
 
 ![Shrinking tube](/images/cables/IMG_3988.jpg)
 
 
-## Workspace
+### Workspace
 
 ![Completed template](/images/cables/IMG_1458.jpg)
 
 
 
-## End Result
+### End Result
 
 ![Completed cable](/images/cables/IMG_2564.jpg)
 

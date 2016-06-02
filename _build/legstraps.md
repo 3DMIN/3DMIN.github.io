@@ -24,16 +24,16 @@ materials:
 ---
 
 
-## Workspace
+### Workspace
 
 ![TODO: photo of workspace]()
 
-## Tools
+### Tools
 
 ![TODO: photo of tools]()
 
 
-## End Result
+### End Result
 
 ![TODO: photo of end result]()
 
