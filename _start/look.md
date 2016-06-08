@@ -8,7 +8,7 @@ A digital-acoustic instrument developed within the [3DMIN project](http://3dmin.
 
 <iframe src="https://player.vimeo.com/video/110656141?title=0&byline=0&portrait=0" width="700px" height="390px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-PushPull features 
+# PushPull features 
 
 + a custom-made bellow, 
 + a pair of microphones, 

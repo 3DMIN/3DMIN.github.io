@@ -17,39 +17,27 @@
 					</div>
 					<div class="col-1">
 						<h1>Tools</h1>
-							{% for tool in page.tools %}
 							<ul>
-							<li>{{ tool.top-level }}{% if tool.nested-tools %}</li>
-								<ul class="nested">
-								{% for nestedtool in tool.nested-tools %} 
-								<li>{{ nestedtool.nested }}</li>
-								{% endfor %}
-								</ul>
-								{% endif %}</ul>{% endfor %}
+							{% for tool in page.tools %}
+							<li>{{ tool.top-level }}</li>
+							{% endfor %}
+							</ul>
 					</div>
 					<div class="files col-1">
 						<h1>Files</h1>
-							{% for file in page.files %}
 							<ul>
-							<li><a href="/sources/{{page.title}}/{{file.top-level}}">{{ file.top-level | append:'</a>' }}{% if file.nested-files %}</li>
-								<ul class="nested">
-								{% for nestedfile in file.nested-files %} 
-								<li>{{ nestedfile.nested }}</li>
-								{% endfor %}
-								</ul>
-								{% endif %}</ul>{% endfor %}
+							{% for file in page.files %}
+							<li><a href="/sources/{{page.title}}/{{file.top-level}}">{{ file.top-level | append:'</a>' }}</li>
+							{% endfor %}
+							</ul>
 					</div>
 					<div class="materials col-1">
 						<h1>Materials</h1>
-							{% for material in page.materials %}
 							<ul>
-							<li>{{ material.top-level }}{% if material.nested-materials %}</li>
-								<ul class="nested">
-								{% for nestedmaterial in material.nested-materials %} 
-								<li>{{ nestedmaterial.nested }}</li>
-								{% endfor %}
-								</ul>
-								{% endif %}</ul>{% endfor %}
+							{% for material in page.materials %}
+							<li>{{ material.top-level }}
+							{% endfor %}
+							</ul>
 					</div>
 				</div>
 			</div>
@@ -59,21 +47,35 @@
 
     <section class="content">
 		<div class="wrapper content">
+			
 			<div class="column">
-				<div class="col-1 fixed">
-					<h1>Steps</h1>
-					<div class="toc-output"></div>	
+				<div class="fixed">
+					<div class="col-1">
+						<h1>Steps</h1>
+						<div class="toc-output"></div>
+					</div>
+					<hr />
+					<div class="col-1">
+						<h1>Other Parts</h1>
+						{% assign sorted_pages = site.build | sort:"order" %}
+						{% for post in sorted_pages %}
+						<ul>	
+							<a href="{{post.url}}"><li>{{post.title}}</li></a>
+						</ul>
+						{% endfor %}
+					</div>
 				</div>
 				<div class="col-3">
 					{{ content }}
 				</div>
 			</div>
+			
+			
 		</div>
 	</section>
     	
     </section>
-
-    {% include footer.html %}
+	
 	
 	
 	<script>

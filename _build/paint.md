@@ -4,25 +4,21 @@ order: 3
 layout: page-build
 tools:
  - top-level: taping
-   nested-tools:
-    - nested: tape
-    - nested: wooden sticks for applying tape into edges
-    - nested: cutter
+ - top-level: tape
+ - top-level: wooden sticks for applying tape into edges
+ - top-level: cutter
  - top-level: filling
-   nested-tools:
-    - nested: scraper
-    - nested: piece of scrap-wood to prepare 2K filling material
+ - top-level: scraper
+ - top-level:: piece of scrap-wood to prepare 2K filling material
  - top-level: sanding
-   nested-tools:
-    - nested: cork sanding block for wood sanding
-    - nested: acrylic sanding block for wet sanding of 3D printed parts
-    - nested: sandpaper (P240, P400, P600)
-    - nested: bowl of water
-    - nested: paper towels
+ - top-level: cork sanding block for wood sanding
+ - top-level: acrylic sanding block for wet sanding of 3D printed parts
+ - top-level: sandpaper (P240, P400, P600)
+ - top-level: bowl of water
+ - top-level: paper towels
  - top-level: varnishing
-   nested-tools:
-    - nested: two triangular sticks for varnishing lower box
-    - nested: support for varnishing elements of top part
+ - top-level: two triangular sticks for varnishing lower box
+ - top-level: support for varnishing elements of top part
 files:
 - top-level: HandteilCapSensAufnahme.STL
 materials:

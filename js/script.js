@@ -34,7 +34,15 @@ $(document).ready(function(){
   } else {
     $('.fixed').fadeOut();
   }
-});
+	});
+	$(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 700) {
+    $('.fixed-2').fadeIn();
+  } else {
+    $('.fixed-2').fadeOut();
+  }
+	});
 });
 
 
