@@ -125,6 +125,8 @@ section {
 		img {
 			width: 100%;
 			height: auto;
+			border: 1em solid white;
+
 		}
 		a:link, a:visited {
 			color: white;
@@ -146,9 +148,13 @@ section {
 }
 
 section.start {
-	background: url(/images/landingpage/opener_IMG_6462.jpg) no-repeat center center white;
 	background-size: contain;
-	height: 90vh;	
+	height: 80vh;
+	.fit {
+		height: 100vh;
+		width: 100%;
+		object-fit: cover;
+	}
 }
 section.look {
 	background: $look;

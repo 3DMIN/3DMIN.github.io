@@ -2,8 +2,16 @@
 layout: start
 ---
 	<section class="start">
-		<span class="anchor" id="top"></span>
-		
+		<div class="cycle-slideshow"
+	       >
+		{% for image in site.static_files %}
+		{% if image.path contains 'images/landingpage' %}
+       
+        <img class="fit" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+		{% endif %}
+		{% endfor %}
+		       </div>
+
 	</section>
 	{% assign sorted_pages = site.start | sort:"order" %}
 	{% for post in sorted_pages %}
