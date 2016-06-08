@@ -57,12 +57,12 @@
 					<hr />
 					<div class="col-1">
 						<h1>Other Parts</h1>
+						<ul>
 						{% assign sorted_pages = site.build | sort:"order" %}
 						{% for post in sorted_pages %}
-						<ul>	
 							<a href="{{post.url}}"><li>{{post.title}}</li></a>
-						</ul>
 						{% endfor %}
+						</ul>
 					</div>
 				</div>
 				<div class="col-3">

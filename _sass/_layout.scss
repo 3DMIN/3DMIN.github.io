@@ -177,12 +177,12 @@ section.build {
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
+		flex-wrap: wrap;
 		-webkit-flex-flow: row wrap;
 		-webkit-justify-content: center;
 		width: 80vw;
 			article {
 				width: 20vw;
-				-webkit-flex-flow: row wrap;
 				margin-bottom: 10vh;
 				.circle {
 					height: 15vw;
@@ -224,6 +224,7 @@ body.build {
 		}
 	section.build-start {
 		background-size: cover !important;
+		min-height: 87vh;
 		
 		
 		.column {
@@ -352,6 +353,30 @@ body.build {
 			.col-1 {
 				border: none !important;
 				width: 100%;
+				ul {
+					a:link, a:visited {
+						text-decoration: none;
+						&:hover {
+							border-bottom: 1px solid white;
+						}
+					}
+					li {
+						list-style: circle;
+						&::first-letter {
+							text-transform: uppercase;
+						}
+					}
+				}
+				ol {
+					li {
+						a:link, a:visited {
+							border-bottom: none;
+							&:hover {
+								border-bottom: 1px solid white;
+							}
+						}
+					}
+				}
 			}
 		}
 		
