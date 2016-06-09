@@ -2,6 +2,7 @@
 title: look
 order: 1
 layout: start-look
+displayTitle: what's it
 ---
 
 A digital-acoustic instrument developed within the [3DMIN project](http://3dmin.org). 

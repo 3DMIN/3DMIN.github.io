@@ -4,12 +4,10 @@
 	    	<a class="start" href="/index.html#top">{{ site.title }}</a><span class="start">{{ page.url }}</span>
 	    	<ul>
 		    	<li></li>
-		    		{% if page.url == "/" %}
 		    		{% assign sorted_pages = site.start | sort:"order" %}
 					{% for post in sorted_pages %}
-					<li><a class="{{post.title}}" href="#{{post.title}}">{{post.title}}</a></li>
+					<li><a class="{{post.title}}" href="/#{{post.title}}">{{post.displayTitle}}</a></li>
 					{% endfor %}
-					{% endif %}
     		</ul>
     	</div>
 	</nav>  
