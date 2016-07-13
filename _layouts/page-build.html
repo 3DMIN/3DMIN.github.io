@@ -12,30 +12,30 @@
 			<div class="text">
 				<div class="column">
 					<div class="col-1">
-					<h1>Steps</h1>
-					<div class="toc-output"></div>	
+						<h1>{{ page.title | capitalize }} steps</h1>
+						<div class="toc-output"></div>	
 					</div>
 					<div class="col-1">
 						<h1>Tools</h1>
 							<ul>
 							{% for tool in page.tools %}
-							<li>{{ tool.top-level }}</li>
+							<li>{{ tool }}</li>
 							{% endfor %}
 							</ul>
 					</div>
-					<div class="files col-1">
-						<h1>Files</h1>
-							<ul>
-							{% for file in page.files %}
-							<li><a href="/sources/{{page.title}}/{{file.top-level}}">{{ file.top-level | append:'</a>' }}</li>
-							{% endfor %}
-							</ul>
-					</div>
-					<div class="materials col-1">
+					<div class="col-1">
 						<h1>Materials</h1>
 							<ul>
 							{% for material in page.materials %}
-							<li>{{ material.top-level }}
+							<li>{{ material }}
+							{% endfor %}
+							</ul>
+					</div>
+					<div class="col-1">
+						<h1>Files</h1>
+							<ul>
+							{% for file in page.files %}
+							<li><a href="/sources/{{page.title}}/{{file[1]}}">{{ file[0]] | append:'</a>' }}</li>
 							{% endfor %}
 							</ul>
 					</div>
@@ -51,12 +51,12 @@
 			<div class="column">
 				<div class="fixed">
 					<div class="col-1">
-						<h1>Steps</h1>
+						<h1>{{ page.title | capitalize }} steps</h1>
 						<div class="toc-output"></div>
 					</div>
 					<hr />
 					<div class="col-1">
-						<h1>Other Parts</h1>
+						<h1>Make it</h1>
 						<ul>
 						{% assign sorted_pages = site.build | sort:"order" %}
 						{% for post in sorted_pages %}
@@ -81,12 +81,10 @@
 	<script>
 		var ToC =
 		  "<nav role='navigation' class='table-of-contents'>" +
-		  "<ol>";
-		
+		  "<ul>";
 		var newLine, el, title, link;
 		
 		$(".column h2").each(function() {
-		
 		  el = $(this);
 		  title = el.text();
 		  link = "#" + el.attr("id");
@@ -97,18 +95,16 @@
 		        title +
 		      "</a>" +
 		    "</li>";
-		
+
 		  ToC += newLine;
 		
 		});
 		
 		ToC +=
-		   "</ol>" +
+		   "</ul>" +
 		  "</nav>";
 		
 		$(".toc-output").html(ToC);
-		
-		
 	</script>
 
   </body>

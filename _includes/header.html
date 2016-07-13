@@ -1,14 +1,24 @@
 <header class="site-header">
-  	<nav class="nav-main">
-    	<div class="wrapper">
-	    	<a class="start" href="/index.html#top">{{ site.title }}</a><span class="start">{{ page.url }}</span>
-	    	<ul>
-		    	<li></li>
-		    		{% assign sorted_pages = site.start | sort:"order" %}
-					{% for post in sorted_pages %}
-					<li><a class="{{post.title}}" href="/#{{post.title}}">{{post.displayTitle}}</a></li>
-					{% endfor %}
-    		</ul>
-    	</div>
+	<nav class="nav-main">
+		<a href="/index.html#top"><img class="logo" src="/images/logo3.png" height="150px"></a>
+		<div class="wrapper">
+			<!-- <a class="start" href="/index.html#top">{{ site.title }}</a><span class="start">{{ page.url }}</span> -->
+			<ul>
+				<li></li>
+				{% assign sorted_pages = site.start | sort:"order" %}
+				{% for post in sorted_pages %}
+				{% if post.title == 'build' %}
+				{% if page.tools %}
+				<li><a class="{{post.title}}filled" href="/#{{post.title}}">
+				{% else %}
+				<li><a class="{{post.title}}" href="/#{{post.title}}">
+				{% endif %}
+				{% else %}
+				<li><a class="{{post.title}}" href="/#{{post.title}}">
+				{% endif %}
+				{{post.displayTitle}}</a></li>
+				{% endfor %}
+				</ul>
+		</div>
 	</nav>  
 </header>

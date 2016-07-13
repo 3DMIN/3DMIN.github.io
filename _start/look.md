@@ -13,7 +13,8 @@ displayTitle: what's it
 <div class="feats">
 <article>
 <div class="circle" style="background: url('/images/look/pushPull-bellow.jpg') no-repeat center center;"></div>
-<h1>custom-made bellow</h1>
+<h1>custom-made bellow,</h1>
+<h1>RGB LEDs</h1>
 </article>
 
 <article>
