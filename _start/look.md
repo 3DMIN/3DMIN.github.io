@@ -1,7 +1,6 @@
 ---
 title: look
 order: 1
-layout: start-look
 displayTitle: what's it
 ---
 

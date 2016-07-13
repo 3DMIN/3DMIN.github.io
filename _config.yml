@@ -9,7 +9,7 @@
 title: PushPull
 email: 3dmin@3dmin.org
 description: > # this means to ignore newlines until "baseurl:"
-  Instruction on how to build a PushPull instrument.
+  Instructions on how to build a PushPull instrument.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 3dmin
@@ -22,6 +22,6 @@ markdown: kramdown
 collections:
   build:
     output: true
-    layout: build-page
+    layout: page-build
   start:
     output: false
