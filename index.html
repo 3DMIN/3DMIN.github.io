@@ -1,25 +1,23 @@
 ---
 layout: start
 ---
-	<section class="start">
-		<div class="cycle-slideshow"
-	       >
+<section class="start">
+	<div class="cycle-slideshow">
 		{% for image in site.static_files %}
 		{% if image.path contains 'images/landingpage' %}
-       
-        <img class="fit" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+		<img class="fit" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
 		{% endif %}
 		{% endfor %}
-		       </div>
+	</div>
+</section>
 
-	</section>
-	{% assign sorted_pages = site.start | sort:"order" %}
-	{% for post in sorted_pages %}
-	<section class="{{ post.title }}" >
-		<span class="anchor" id="{{ post.title }}"></span>
-			<div class="wrapper">
-				{% include build-template.html %}
-			</div>
-	</section>
-	{% endfor %}
+{% assign sorted_pages = site.start | sort:"order" %}
+{% for post in sorted_pages %}
+<section class="{{ post.title }}" >
+	<span class="anchor" id="{{ post.title }}"></span>
+	<div class="wrapper">
+		{% include build-template.html %}
+	</div>
+</section>
+{% endfor %}
 

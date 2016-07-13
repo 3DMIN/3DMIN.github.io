@@ -23,5 +23,5 @@ collections:
   build:
     output: true
     layout: build-page
-    
   start:
+    output: false
