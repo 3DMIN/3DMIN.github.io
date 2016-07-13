@@ -1,32 +1,32 @@
 ---
+order: 6
 title: paint
-order: 3
 layout: page-build
 tools:
- - top-level: taping
- - top-level: tape
- - top-level: wooden sticks for applying tape into edges
- - top-level: cutter
- - top-level: filling
- - top-level: scraper
- - top-level:: piece of scrap-wood to prepare 2K filling material
- - top-level: sanding
- - top-level: cork sanding block for wood sanding
- - top-level: acrylic sanding block for wet sanding of 3D printed parts
- - top-level: sandpaper (P240, P400, P600)
- - top-level: bowl of water
- - top-level: paper towels
- - top-level: varnishing
- - top-level: two triangular sticks for varnishing lower box
- - top-level: support for varnishing elements of top part
+  - top-level: taping
+  - top-level: tape
+  - top-level: wooden sticks for applying tape into edges
+  - top-level: cutter
+  - top-level: filling
+  - top-level: scraper
+  - top-level:: piece of scrap-wood to prepare 2K filling material
+  - top-level: sanding
+  - top-level: cork sanding block for wood sanding
+  - top-level: acrylic sanding block for wet sanding of 3D printed parts
+  - top-level: sandpaper (P240, P400, P600)
+  - top-level: bowl of water
+  - top-level: paper towels
+  - top-level: varnishing
+  - top-level: two triangular sticks for varnishing lower box
+  - top-level: support for varnishing elements of top part
 files:
-- top-level: HandteilCapSensAufnahme.STL
+  - top-level: HandteilCapSensAufnahme.STL
 materials:
-- top-level: 2K fine filler
-- top-level: plastic primer
-- top-level: spray putty
-- top-level: filler
-- top-level: varnish
+  - top-level: 2K fine filler
+  - top-level: plastic primer
+  - top-level: spray putty
+  - top-level: filler
+  - top-level: varnish
 ---
 
 

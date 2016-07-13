@@ -1,56 +1,39 @@
 ---
-title: bellow
 order: 1
+title: bellow
 layout: page-build
 tools:
- - top-level: laser-cutter
- - top-level: coating preparation
-   nested-tools:
-    - nested: messbecher
-    - nested: rubber spreader
-    - nested: vinyl gloves
- - top-level: putting preparation
-   nested-tools:
-    - nested: scissors
-    - nested: locheisen (5mm)
- - top-level: putting
-   nested-tools:
-    - nested: zulage
-    - nested: tape
-    - nested: gummiwalze
-    - nested: vinyl gloves
-    - nested: brush (for applying latex)
- - top-level: folding
-   nested-tools:
-    - nested: scissors
-    - nested: brush (for applying talcum)
-    - nested: 2 c-clamps
-    - nested: 2 Zulagen
- - top-level: glueing
-   nested-tools:
-    - nested: stick (for applying glue)
-    - nested: vinyl gloves
-    - nested: 2 c-clamps
-    - nested: 2 Zulagen
-    - nested: paper
-files:
-- top-level: LasercutBellow.pdf
-- top-level: Metallframes.pdf
+  - top-level: laser-cutter
+  - top-level: beaker
+  - top-level: rubber spreader
+  - top-level: vinyl gloves
+  - top-level: scissors
+  - top-level: hollow punch (5mm)
+  - top-level: allowance
+  - top-level: tape
+  - top-level: rubber roll
+  - top-level: vinyl gloves
+  - top-level: brush (for latex)
+  - top-level: brush (for talcum)
+  - top-level: stick (for glue)
+  - top-level: two c-clamps
+  - top-level: white paper
 materials:
-- top-level: cardboard
-  nested-materials:
-    - nested: cardboard, XXmm, (48 x 95 cm)
-    - nested: adhesive film (mirror), (48 x 95 cm)
-    - nested: adhesive film (transfer), (50 x 100 cm)
-    - nested: moscito net (50 x 100 cm)
-    - nested: liquid latex (1l, thick)
-    - nested: strip of latex-textile (4 x 95cm)
-    - nested: strip of transparent adhesive film (4 x 95cm)
-    - nested: talcum
-    - nested: piece of metall (XXmm x XXmm x XXmm)
-    - nested: weicon adhesive spray
-    - nested: pattex transparent
-    - nested: epoxy
+  - top-level: cardboard, XXmm, (48cm x 95cm)
+  - top-level: adhesive film (mirror), (48cm x 95cm)
+  - top-level: adhesive film (transfer), (50cm x 100cm)
+  - top-level: moscito net (50cm x 100cm)
+  - top-level: liquid latex (1 liter, thick)
+  - top-level: strip of latex-textile (4cm x 95cm)
+  - top-level: strip of transparent adhesive film (4cm x 95cm)
+  - top-level: talcum
+  - top-level: TODO piece of metall (XXmm x XXmm x XXmm)
+  - top-level: Weicon adhesive spray
+  - top-level: Pattex transparent
+  - top-level: epoxy glue
+files:
+  - top-level: LasercutBellow.pdf
+  - top-level: Metallframes.pdf
 ---
 
 ### Tools

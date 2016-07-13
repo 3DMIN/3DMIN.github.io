@@ -1,42 +1,31 @@
 ---
+order: 3
 title: box
-order: 4
 layout: page-build
 tools:
-- top-level: laser-cutter
-- top-level: drilling
-  nested-tools:
-   - nested: upright drilling machine with accessories
-   - nested: center bit, 20mm diameter
-   - nested: drill bit for wood, 11mm diameter
-- top-level: glueing
-  nested-tools:
-   - nested: wood glue
-   - nested: cloth
-   - nested: 4 C-clamps
-   - nested: 8 wooden blocks (5x5cm)
-   - nested: a newspaper
-   - nested: 8 screws M3, 10mm 
-   - nested: 8 washers M3
-- top-level: sanding
-  nested-tools:
-   - nested: P100 sand paper
-   - nested: sanding block
-   - nested: (sanding machine)
-- top-level: filling
-  nested-tools:
-   - nested: scraper
-   - nested: piece of scrap-wood
-- top-level: filing
-  nested-tools:
-   - nested: set of small files
-
-files:
-- top-level: TODO_laser-cutting-plywood.pdf
+  - top-level: laser-cutter
+  - top-level: upright drilling machine with accessories
+  - top-level: center bit (20mm)
+  - top-level: drill bit for wood (11mm)
+  - top-level: wood glue
+  - top-level: cloth
+  - top-level: 4 C-clamps
+  - top-level: 8 wooden blocks (5cm x 5cm)
+  - top-level: Newspaper
+  - top-level: 8 screws M3, 10mm 
+  - top-level: 8 washers M3
+  - top-level: sand paper P100
+  - top-level: sanding block
+  - top-level: (sanding machine)
+  - top-level: scraper
+  - top-level: piece of scrap-wood
+  - top-level: set of small files
 materials:
-- top-level: Plywood, 6mm, XXXcm by XXXcm TODO how big?
-- top-level: 4 spacer bolts, XXXmm TODO length
-- top-level: 2K filling material
+  - top-level: Plywood, 6mm, XXXcm by XXXcm TODO how big?
+  - top-level: 4 spacer bolts, XXXmm TODO length
+  - top-level: 2K filling material
+files:
+  - top-level: TODO_laser-cutting-plywood.pdf
 ---
 
 

@@ -1,19 +1,19 @@
 ---
-title: handstraps
 order: 4
+title: handstraps
 layout: page-build
 tools:
-- top-level: scissors
-- top-level: sewing machine
-files:
-- top-level: TODO_handstrap-pattern.pdf
+  - top-level: scissors
+  - top-level: sewing machine
 materials:
-- top-level: 50cm of strap band, 3.8cm width
-- top-level: 12cm velcro band
-- top-level: 0.5m black neopren
-- top-level: strong yarn
-- top-level: 3D-printed handpiece top
-- top-level: glue
+  - top-level: 50cm of strap band, 3.8cm width
+  - top-level: 12cm velcro band
+  - top-level: 0.5m black neopren
+  - top-level: strong yarn
+  - top-level: 3D-printed handpiece top
+  - top-level: glue
+files:
+  - top-level: TODO_handstrap-pattern.pdf
 ---
 
 

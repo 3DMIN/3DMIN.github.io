@@ -1,21 +1,21 @@
 ---
+order: 2
 title: cables
-order: 4
 layout: page-build
 tools:
-- top-level: sharp knife
-- top-level: upright drilling machine with accessories
-- top-level: drill bit for wood, 3mm diameter
-- top-level: wood glue
-- top-level: lighter
-files:
-- top-level: /images/cables/cableassembly_template.pdf
+  - top-level: sharp knife
+  - top-level: upright drilling machine with accessories
+  - top-level: drill bit for wood, 3mm diameter
+  - top-level: wood glue
+  - top-level: lighter
 materials:
-- top-level: scrap-wood piece, about 20cm by 50cm
-- top-level: tooth picks, 3mm diameter
-- top-level: 130cm rainbow ribbon cable
-- top-level: 50cm shrinking tube
-- top-level: 50cm acryllic glass rod, 3mm diameter
+  - top-level: scrap-wood piece, about 20cm by 50cm
+  - top-level: tooth picks, 3mm diameter
+  - top-level: 130cm rainbow ribbon cable
+  - top-level: 50cm shrinking tube
+  - top-level: 50cm acryllic glass rod, 3mm diameter
+files:
+  - top-level: /images/cables/cableassembly_template.pdf
 ---
 
 

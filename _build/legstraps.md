@@ -1,26 +1,26 @@
 ---
+order: 5
 title: legstraps
-order: 4
 layout: page-build
 tools:
-- top-level: lasercutter
-- top-level: scissors
-- top-level: sewing machine
-- top-level: upright drilling machine with accessories
-- top-level: center bit, 20mm diameter
-- top-level: drill bit, 5mm
-- top-level: hole puncher
-- top-level: exacto knive
-- top-level: glue
-files:
-- top-level: TODO_strapdisk-rubberpattern.pdf
-- top-level: TODO_strapdisk-acrylpattern.pdf
+  - top-level: lasercutter
+  - top-level: scissors
+  - top-level: sewing machine
+  - top-level: upright drilling machine with accessories
+  - top-level: center bit, 20mm diameter
+  - top-level: drill bit, 5mm
+  - top-level: hole puncher
+  - top-level: exacto knive
+  - top-level: glue
 materials:
-- top-level: 2m black strap band, 2.5cm width
-- top-level: 2 clipping buckles for 2.5cm strap band
-- top-level: 40cm x 40cm white rubber, 1mm thick
-- top-level: 10cm x 10cm black acryllic, 3mm thick
-- top-level: machine screw M5x30, washer, nut
+  - top-level: 2m black strap band, 2.5cm width
+  - top-level: 2 clipping buckles for 2.5cm strap band
+  - top-level: 40cm x 40cm white rubber, 1mm thick
+  - top-level: 10cm x 10cm black acryllic, 3mm thick
+  - top-level: machine screw M5x30, washer, nut
+files:
+  - top-level: TODO_strapdisk-rubberpattern.pdf
+  - top-level: TODO_strapdisk-acrylpattern.pdf
 ---
 
 
