@@ -4,7 +4,7 @@ layout: start
 <section class="start">
 	<div class="cycle-slideshow">
 		{% for image in site.static_files %}
-		{% if image.path contains 'images/landingpage' %}
+		{% if image.path contains 'images/landingpage/slides' %}
 		<img class="fit" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
 		{% endif %}
 		{% endfor %}
