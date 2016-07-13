@@ -66,9 +66,9 @@ Mark the places where the two straps overlap.
 Punch a hole into the center of the markings. 
 This will be the place where the center screw of the disc will go through.
 
-<span class="note">
+<div class="note">
 The strap band will stay in shape if you melt together the fibers of freshly cut ends (and holes), e.g., with a lighter.
-</span>
+</div>
 
 ![Straps with attached buckle](/images/legstraps/IMG_0949.jpg)
 *Straps with attached buckle*

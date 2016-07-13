@@ -62,11 +62,11 @@ materials:
 
 Use a 2K putty to fill gaps and dents in between parts or on surface.
 
-<span class="note">
+<div class="note">
 To prepare the putty, follow the instructions on its package. 
 It is a good idea to apply putty in between layers of grounding coats, because most filling pastes need to be covered with a primer before applying the final paint. 
 For really big gaps you can apply putty even before the applying first layer of filler.
-</span>
+</div>
 
 ![Apply putty on sanded box where necessary. Have a look especially at the round edges where the box parts were glued together.](/images/paint/IMG_2505.jpg)
 *Apply putty on sanded box where necessary. Have a look especially at the round edges where the box parts were glued together.*
@@ -82,9 +82,9 @@ The lower box needs to be sanded in between applying layers of primer.
 The first layer of primer should be sanded with P240 to smooth out areas of redundant putty. 
 For the second layer, you should use P400 (i.e. much finer) sanding paper. Fold it in half and sand by hand.
 
-<span class="note">
+<div class="note">
 Do not worry if you sand off fill material at certain areas. You have to apply a second layer anyway.     
-</span>
+</div>
 
 ![It is most important to end up with an even surface after the first round of sanding. That way you will have less problems sanding the second layer of filler.](/images/paint/IMG_2791.jpg)
 *It is most important to end up with an even surface after the first round of sanding. That way you will have less problems sanding the second layer of filler.*

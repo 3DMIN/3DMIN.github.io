@@ -82,7 +82,7 @@ materials:
 
 Use the illustrator file TODO make link ```box-wood.pdf``` to laser-cut the parts from the plywood piece.
 
-<span class="note">Before using your actual material, try the lasercutter and its settings with a scrab-piece of plywood.</span>
+<div class="note">Before using your actual material, try the lasercutter and its settings with a scrab-piece of plywood.</div>
 
 
 ## Drilling
@@ -108,16 +108,16 @@ Before gluing the pieces into the box, put them together without glue to check i
 
 ![](/images/box/IMG_1198.jpg)
 
-<span class="note">
+<div class="note">
 Note that the shape of the elements does allow more than one way to create a box. Be careful to not swap elements or put them in inside-out.
-</span>
+</div>
 
 The back element has four slits, whereas the front has four squares. 
-The left side has a center hole and the right side two holes which should ne located on the front-right side of the box.
+The left side has a center hole and the right side two holes which should be located on the front-right side of the box.
 
 ![](/images/box/IMG_1203.jpg)
 
-Seven Tower pieces (3 with and 4 without cutaways) stack to a tower with a hole in the middle for the hexagonal spacer bolts. 
+Seven Tower pieces (3 with and 4 without cutaways) stacked to a tower with a hole in the middle for the hexagonal spacer bolts. 
 Use a hexagonal spacer bolt for the stacking, this way you make sure to put them in the right direction.
 
 
@@ -130,7 +130,7 @@ Use a hexagonal spacer bolt for the stacking, this way you make sure to put them
 
 The jigsaw shape of the towers should fit neatly into the corresponding front and back elements. However, depending on quality and source, plywood can be more or less thick. If yours is too thick (>0.6mm), sand down the Tower pieces such that they fit into the teeth of the sides.
 
-<span class="note">If the plywood is too thin, you can fill the gaps later with filling material or, if you know what you are doing, by adding sawdust to the glue you put between the tower elements.</span>
+<div class="note">If the plywood is too thin, you can fill the gaps later with filling material or, if you know what you are doing, by adding sawdust to the glue you put between the tower elements.</div>
 
 ![sand down Tower pieces](/images/box/IMG_0678.jpg)
 *Sand down Tower pieces.*
@@ -158,7 +158,7 @@ Mark the top sides of the tower elements with numbers 1–7 to ensure them being
 
 ## Glueing
 
-<span class="note">Glueing is best done with two people. While one puts the pieces together, the other prepares them with glue.</span>
+<div class="note">Glueing is best done with two people. While one puts the pieces together, the other prepares them with glue.</div>
 
 The process of glueing should take you no more than 10 minutes, otherwise you risk the wood glue to dry and harden without the needed pressure. When done witht the glueing, immediatly continue with [clamping the box](#drying-and-clamping).
 Put glue to all the places that will stick to each other. 
@@ -171,7 +171,7 @@ They need to be attached to the front/side parts, too, so they need glue applied
 Take care to stack its pieces in the right order and with the marked side facing up (otherwise the hexagonal bolt will not fit).
 When finnished one tower, push a hexagonal spacer bolt through its hole. 
 
-<span class="note">Do *not* glue the top element to the box!</span>
+<div class="note">Do *not* glue the top element to the box!</div>
 
 During glueing, wipe away excess glue with a damp cloth. Everything you do not remove now will be difficult to remove once the glue is hardened.
 
@@ -202,7 +202,7 @@ After adding the lit, screw the parts firmly (but not too tightly) together by f
 Fix the structure with c-clamps and wood blocks. To keep the wooden blocks from attaching to the box (e.g. because of additional excess glue), put newspaper pieces between them and the box.
 After about one hour, release the c-clamps. Your box should now be assembled.
 
-<span class="note">Wait at least one hour before continuing to work on of with the box.</span>
+<div class="note">Wait at least one hour before continuing to work on of with the box.</div>
 
 ![Clamped part, top view](/images/box/IMG_0671.jpg)
 *Clamped part, top view.*
@@ -245,11 +245,11 @@ Always start at a flat surface. From there, go over the round corner until you r
 Holes and dents in the box' surface can be closed by the application of filling material.
 For the 2K filling material to work, tis two components needs to be mixed together thorroughly. For this, take some of the first material and put it to a wooden surface, then add a small amount of the second material and mix the two components with a spatula. 
 
-<span class="note">Mix only as much as you will be able to use within the next 10 minutes</span>
+<div class="note">Mix only as much as you will be able to use within the next 10 minutes</div>
 
 Apply it with a scraper to the groves and cracks and remove excess immediatly.
 
-<span class="note">Remove excess material when it is still fresh; dry material gets very hard and therefore takes a lot of time to sand away.</span>
+<div class="note">Remove excess material when it is still fresh; dry material gets very hard and therefore takes a lot of time to sand away.</div>
 
 ![Fill groves and cracks with filling material using a scraper](/images/box/IMG_2403.jpg)
 *Fill groves and cracks with filling material using a scraper.*
@@ -265,7 +265,7 @@ The lid of the box should get on and off easily. To ensure this, it is necessary
 Fix the lid in a vise and carefully file away parts of the teeth with a flat file.
 The use of a square file supports you to keep a right angle also in the corners.
 
-<span class="note">Be careful when taking away the material and be prepared to try several times if the lid fits snug. It is not possible to re-apply filed-off material.</span>
+<div class="note">Be careful when taking away the material and be prepared to try several times if the lid fits snug. It is not possible to re-apply filed-off material.</div>
 
 ![Fix the lid in a vise.](/images/box/IMG_2774.jpg)
 *Fix the lid in a vise.*

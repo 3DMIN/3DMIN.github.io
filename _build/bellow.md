@@ -82,7 +82,7 @@ TODO: foto of laser cutted sheet and metal frames
 
 ## Prepairing Coating
 
-<span class="note">for the following steps it is recommended to work in pairs of two</span>
+<div class="note">For the following steps it is recommended to work in pairs of two.</div>
 
 ![](/images/bellow/IMG_2145.jpg)
 *cut transfer adhesive film to 50 x 100cm*
@@ -103,7 +103,7 @@ TODO: foto of laser cutted sheet and metal frames
 
 ![apply adhesive spray on moscito net](/images/bellow/IMG_1260.jpg)*apply adhesive spray on moscito net*
 
-<span class="note">wait about 10 min before mounting moscito net on cardboard, adhesive spray needs to be dry</span>
+<div class="note">Wait about 10 min before mounting moscito net on cardboard, adhesive spray needs to be dry</div>
 
 ![mounting moscito net on cardboard the same way as transparent adhesive film was mounted before, adjust position of net with hand if necessary, avoid wrinkles!](/images/bellow/IMG_2525.jpg)*mounting moscito net on cardboard the same way as transparent adhesive film was mounted before, adjust position of net with hand if necessary, avoid wrinkles!*
 
@@ -111,7 +111,7 @@ TODO: foto of laser cutted sheet and metal frames
 
 ## Coating
 
-<span class="note">put on vynil gloves, and repeat coating three times. thin layers of latex are better, wait for one layer to fully dry until you apply the next layer. this takes more or less 2 hours.</span>
+<div class="note">Put on vinyl gloves, and repeat coating three times. Thin layers of latex are better, wait for one layer to fully dry until you apply the next layer. This takes more or less 2 hours.</div>
 
 ![tape material to working surface, it should be strapped under tension](/images/bellow/IMG_2619.jpg)*tape material to working surface, it should be strapped with a proper amount of tension*
 
@@ -142,7 +142,7 @@ TODO: foto of laser cutted sheet and metal frames
 
 ## Putting
 
-<span class="note">Again for the following steps it is much easier to work with somebody who can give you hand.</span>
+<div class="note">For the following steps it is much easier to work with somebody who can give you hand.</div>
 
 
 ![put a log of wood in the middle of material as supporting structure during putting process](/images/bellow/IMG_2667.jpg)*put a log of wood in the middle of coated sheet as supporting structure during the putting process*
@@ -189,7 +189,7 @@ TODO: foto of laser cutted sheet and metal frames
 
 ## Glueing
 
-<span class="note">while glueing in the metall frames at each end of the bellow work with another person. before glueing make sure metall parts are fat and dust free. Glue one frame at a time since the epoxy hardens quiet fast!</span>
+<div class="note">While glueing in the metall frames at each end of the bellow work with another person. before glueing make sure metall parts are fat and dust free. Glue one frame at a time since the epoxy hardens quiet fast!</div>
 
 ![put metall frame inside the last fold of the bellow, make sure that the holes ar in the same positions as in the bellow and apply a thin layer of epoxy in between the holes. leave 1cm space between holes and epoxy to make sure that no glue will go into the female screw thread](/images/bellow/IMG_3301.jpg)*put metall frame inside the last fold of the bellow, make sure that the holes ar in the same positions as in the bellow and apply a thin layer of epoxy in between the holes. leave 1cm space between holes and epoxy to make sure that no glue will go into the female screw thread*
 

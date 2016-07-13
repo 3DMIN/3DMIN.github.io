@@ -423,14 +423,20 @@ body.build {
 					overflow-x: scroll;
 				}
 				
-				p.note, .note {
+				p.note, div.note, .note {
 					font-family: 'Inconsolata';
 					border: 1px solid white;
 					padding: 0.5em;
 					display: block;
-					display: inline;
 				}
-				
+				div.note {
+					font-size: 1.6em;
+					line-height: 1.3em;
+					margin: 0 0 2em 0;
+					max-width: 650px;
+					line-height: 1.5;
+				}
+
 				.sub-step {
 					margin-top: 10em;
 				}

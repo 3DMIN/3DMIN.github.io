@@ -37,9 +37,9 @@ From one of those pieces, cut away a diagonal piece so that it aligns with the r
 
 Cut another 10cm of the black strap band and put it into shape using the provided pattern for the small strap.
 
-<span class="note">
+<div class="note">
 The strap band will stay in shape if you melt together the fibers of freshly cut ends, e.g., with a lighter.
-</span>
+</div>
 
 ![cut away a diagonal piece so that it aligns with the relief the hand piece top has on its underside](/images/handstraps/IMG_4691.jpg)
 *cut away a diagonal piece so that it aligns with the relief the hand piece top has on its underside*
