@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 Gemfile.lock
 images/cables/_not
+images/_drafts

@@ -57,9 +57,6 @@ files:
 
 ### End Result
 
-![Glued box from the front]({{ page.imagedir }}/IMG_2171.jpg)
-*Glued box from the front*
-
 ![Glued, sanded and filled box from top]({{ page.imagedir }}/IMG_2940.jpg)
 *Glued, sanded and filled box from top*
 
@@ -161,7 +158,7 @@ They need to be attached to the front/side parts, too, so they need glue applied
 Take care to stack its pieces in the right order and with the marked side facing up (otherwise the hexagonal bolt will not fit).
 When finished one tower, push a hexagonal spacer bolt through its hole. 
 
-<div class="note">Do *not* glue the top element to the box!</div>
+<div class="note">Do <em>not</em> glue the top element to the box!</div>
 
 During glueing, wipe away excess glue with a damp cloth. Everything you do not remove now will be difficult to remove once the glue is hardened.
 
