@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-29 BZR 5631)-product   date = 2015 May 21, Thursday 15:43:24
+
+BeginCmp
+TimeStamp = /5559CFA1;
+Reference = C1;
+ValeurCmp = 1µ;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5559CFFB;
+Reference = C2;
+ValeurCmp = 1µ;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5559D031;
+Reference = C3;
+ValeurCmp = 1µ;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5559D069;
+Reference = C4;
+ValeurCmp = 1µ;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5559DA24;
+Reference = C5;
+ValeurCmp = 470µ;
+IdModule  = Capacitors_SMD:c_elec_8x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548DF25;
+Reference = P1;
+ValeurCmp = POWER Conn;
+IdModule  = Pushpull:JST_PH_Series_S2B-PH-KL-2pole_angled;
+EndCmp
+
+BeginCmp
+TimeStamp = /555DDE1F;
+Reference = P2;
+ValeurCmp = CapFingers;
+IdModule  = Pushpull:8_PIN_MM_conn;
+EndCmp
+
+BeginCmp
+TimeStamp = /5549025F;
+Reference = P3;
+ValeurCmp = TO LOWER;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548E536;
+Reference = P4;
+ValeurCmp = Debug Conn;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /555DE057;
+Reference = P5;
+ValeurCmp = CapThumb;
+IdModule  = Pushpull:4_PIN_MM_conn;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548D9A3;
+Reference = R1;
+ValeurCmp = Rcap;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548D982;
+Reference = R2;
+ValeurCmp = Rcap;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548D8ED;
+Reference = R3;
+ValeurCmp = Rcap;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548D918;
+Reference = R4;
+ValeurCmp = Rcap;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548D948;
+Reference = R5;
+ValeurCmp = Rcap;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548D964;
+Reference = R6;
+ValeurCmp = Rcap;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5559D6FB;
+Reference = R7;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548F329;
+Reference = U1;
+ValeurCmp = NEOPixel_BBFriend;
+IdModule  = Pushpull:NeoPixel_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548F268;
+Reference = U2;
+ValeurCmp = NEOPixel_BBFriend;
+IdModule  = Pushpull:NeoPixel_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548F3A2;
+Reference = U3;
+ValeurCmp = NEOPixel_BBFriend;
+IdModule  = Pushpull:NeoPixel_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548F3F3;
+Reference = U4;
+ValeurCmp = NEOPixel_BBFriend;
+IdModule  = Pushpull:NeoPixel_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548D796;
+Reference = U5;
+ValeurCmp = X-OSC_v1.6;
+IdModule  = Pushpull:XOsc;
+EndCmp
+
+BeginCmp
+TimeStamp = /5548CEFE;
+Reference = U6;
+ValeurCmp = CY8CKIT-049-42XX;
+IdModule  = Pushpull:Psoc;
+EndCmp
+
+EndListe

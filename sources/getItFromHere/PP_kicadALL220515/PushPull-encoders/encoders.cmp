@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-05 BZR 5645)-product   date = 2015 May 07, Thursday 18:35:23
+
+BeginCmp
+TimeStamp = /554B4ABA;
+Reference = C1;
+ValeurCmp = 10µ;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B4E21;
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_ThroughHole:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B4E56;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_ThroughHole:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B92DC;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_ThroughHole:C_Rect_L7_W2.5_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B41B8;
+Reference = IC1;
+ValeurCmp = ATMEGA328-P;
+IdModule  = Housings_DIP:DIP-28__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B50E4;
+Reference = P1;
+ValeurCmp = to_buttonPCB;
+IdModule  = Connectors_Molex:Connector_Molex_PicoBlade_53047-0510;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B5412;
+Reference = P2;
+ValeurCmp = CONN_01X03;
+IdModule  = Connectors_Molex:Connector_Molex_PicoBlade_53047-0310;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B4900;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B47A5;
+Reference = U1;
+ValeurCmp = STEC12E;
+IdModule  = PushPull:STEC12E-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B47CC;
+Reference = U2;
+ValeurCmp = STEC12E;
+IdModule  = PushPull:STEC12E-1;
+EndCmp
+
+BeginCmp
+TimeStamp = /554B4C4C;
+Reference = Y1;
+ValeurCmp = Crystal_Small;
+IdModule  = Crystals:Crystal_HC50-U_Vertical;
+EndCmp
+
+EndListe

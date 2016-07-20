@@ -1,0 +1,329 @@
+EESchema Schematic File Version 2
+LIBS:pushPullComponents
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:encoders-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ATMEGA328-P IC1
+U 1 1 554B41B8
+P 5800 3700
+F 0 "IC1" H 5050 4950 40  0000 L BNN
+F 1 "ATMEGA328-P" H 6200 2300 40  0000 L BNN
+F 2 "Housings_DIP:DIP-28__300" H 5800 3700 30  0000 C CIN
+F 3 "" H 5800 3700 60  0000 C CNN
+	1    5800 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR01
+U 1 1 554B4235
+P 4250 2500
+F 0 "#PWR01" H 4250 2350 50  0001 C CNN
+F 1 "VCC" H 4250 2650 50  0000 C CNN
+F 2 "" H 4250 2500 60  0000 C CNN
+F 3 "" H 4250 2500 60  0000 C CNN
+	1    4250 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L STEC12E U1
+U 1 1 554B47A5
+P 8350 1750
+F 0 "U1" H 8350 1400 60  0000 C CNN
+F 1 "STEC12E" H 8350 2100 60  0000 C CNN
+F 2 "PushPull:STEC12E-1" H 7950 1750 60  0001 C CNN
+F 3 "" H 7950 1750 60  0000 C CNN
+	1    8350 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L STEC12E U2
+U 1 1 554B47CC
+P 8350 2200
+F 0 "U2" H 8350 1850 60  0000 C CNN
+F 1 "STEC12E" H 8350 2550 60  0000 C CNN
+F 2 "PushPull:STEC12E-1" H 7950 2200 60  0001 C CNN
+F 3 "" H 7950 2200 60  0000 C CNN
+	1    8350 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR02
+U 1 1 554B47FE
+P 7650 1350
+F 0 "#PWR02" H 7650 1100 50  0001 C CNN
+F 1 "GND" H 7650 1200 50  0000 C CNN
+F 2 "" H 7650 1350 60  0000 C CNN
+F 3 "" H 7650 1350 60  0000 C CNN
+	1    7650 1350
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND #PWR03
+U 1 1 554B4838
+P 4700 4700
+F 0 "#PWR03" H 4700 4450 50  0001 C CNN
+F 1 "GND" H 4700 4550 50  0000 C CNN
+F 2 "" H 4700 4700 60  0000 C CNN
+F 3 "" H 4700 4700 60  0000 C CNN
+	1    4700 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L R R1
+U 1 1 554B4900
+P 7450 4050
+F 0 "R1" V 7530 4050 50  0000 C CNN
+F 1 "10K" V 7450 4050 50  0000 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 7380 4050 30  0001 C CNN
+F 3 "" H 7450 4050 30  0000 C CNN
+	1    7450 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L VCC #PWR04
+U 1 1 554B4A1F
+P 8550 4050
+F 0 "#PWR04" H 8550 3900 50  0001 C CNN
+F 1 "VCC" H 8550 4200 50  0000 C CNN
+F 2 "" H 8550 4050 60  0000 C CNN
+F 3 "" H 8550 4050 60  0000 C CNN
+	1    8550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP C1
+U 1 1 554B4ABA
+P 4250 3750
+F 0 "C1" H 4275 3850 50  0000 L CNN
+F 1 "10µ" H 4275 3650 50  0000 L CNN
+F 2 "Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5" H 4288 3600 30  0001 C CNN
+F 3 "" H 4250 3750 60  0000 C CNN
+	1    4250 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Crystal_Small Y1
+U 1 1 554B4C4C
+P 9050 3250
+F 0 "Y1" H 9050 3350 50  0000 C CNN
+F 1 "Crystal_Small" V 9200 3050 50  0000 C CNN
+F 2 "Crystals:Crystal_HC50-U_Vertical" H 9050 3250 60  0001 C CNN
+F 3 "" H 9050 3250 60  0000 C CNN
+	1    9050 3250
+	0    1    1    0   
+$EndComp
+$Comp
+L C C2
+U 1 1 554B4E21
+P 9450 3150
+F 0 "C2" V 9500 3200 50  0000 L CNN
+F 1 "22pF" V 9400 3200 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Rect_L7_W2.5_P5" H 9488 3000 30  0001 C CNN
+F 3 "" H 9450 3150 60  0000 C CNN
+	1    9450 3150
+	0    1    1    0   
+$EndComp
+$Comp
+L C C3
+U 1 1 554B4E56
+P 9450 3350
+F 0 "C3" V 9500 3400 50  0000 L CNN
+F 1 "22pF" V 9400 3400 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Rect_L7_W2.5_P5" H 9488 3200 30  0001 C CNN
+F 3 "" H 9450 3350 60  0000 C CNN
+	1    9450 3350
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR05
+U 1 1 554B4E88
+P 9900 3150
+F 0 "#PWR05" H 9900 2900 50  0001 C CNN
+F 1 "GND" H 9900 3000 50  0000 C CNN
+F 2 "" H 9900 3150 60  0000 C CNN
+F 3 "" H 9900 3150 60  0000 C CNN
+	1    9900 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X05 P1
+U 1 1 554B50E4
+P 7950 2800
+F 0 "P1" H 7950 3100 50  0000 C CNN
+F 1 "to_buttonPCB" V 8050 2800 50  0000 C CNN
+F 2 "Connectors_Molex:Connector_Molex_PicoBlade_53047-0510" H 7950 2800 60  0001 C CNN
+F 3 "" H 7950 2800 60  0000 C CNN
+	1    7950 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X03 P2
+U 1 1 554B5412
+P 8250 4300
+F 0 "P2" H 8250 4500 50  0000 C CNN
+F 1 "CONN_01X03" V 8350 4300 50  0000 C CNN
+F 2 "Connectors_Molex:Connector_Molex_PicoBlade_53047-0310" H 8250 4300 60  0001 C CNN
+F 3 "" H 8250 4300 60  0000 C CNN
+	1    8250 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 2500 4250 3600
+Wire Wire Line
+	4250 2600 4900 2600
+Wire Wire Line
+	7650 1350 7650 4400
+Wire Wire Line
+	7650 1750 7950 1750
+Wire Wire Line
+	7650 2200 7950 2200
+Connection ~ 7650 1750
+Wire Wire Line
+	4700 4700 4700 4900
+Wire Wire Line
+	4250 4800 4900 4800
+Wire Wire Line
+	4700 4900 4900 4900
+Connection ~ 4700 4800
+Wire Wire Line
+	6800 4900 7200 4900
+Wire Wire Line
+	7200 4900 7200 2100
+Wire Wire Line
+	7200 2100 7950 2100
+Wire Wire Line
+	6800 2600 6850 2600
+Wire Wire Line
+	6850 2600 6850 2300
+Wire Wire Line
+	6850 2300 7950 2300
+Wire Wire Line
+	6800 4700 7000 4700
+Wire Wire Line
+	7000 4700 7000 1650
+Wire Wire Line
+	7000 1650 7950 1650
+Wire Wire Line
+	6800 4800 7150 4800
+Wire Wire Line
+	7150 4800 7150 1850
+Wire Wire Line
+	7150 1850 7950 1850
+Wire Wire Line
+	6800 4050 7300 4050
+Wire Wire Line
+	8550 4050 7600 4050
+Wire Wire Line
+	4250 3200 4900 3200
+Connection ~ 4250 2600
+Wire Wire Line
+	4250 2900 4900 2900
+Connection ~ 4250 2900
+Wire Wire Line
+	4250 3900 4250 4800
+Connection ~ 4250 3200
+Wire Wire Line
+	6800 3200 8800 3200
+Wire Wire Line
+	6800 3300 8800 3300
+Wire Wire Line
+	8800 3200 8800 3150
+Wire Wire Line
+	8800 3150 9300 3150
+Wire Wire Line
+	8800 3300 8800 3350
+Wire Wire Line
+	8800 3350 9300 3350
+Wire Wire Line
+	9600 3150 9900 3150
+Wire Wire Line
+	9600 3350 9900 3350
+Wire Wire Line
+	9900 3350 9900 3150
+Connection ~ 9050 3150
+Connection ~ 9050 3350
+Connection ~ 7650 2200
+Wire Wire Line
+	6800 4300 8050 4300
+Wire Wire Line
+	7900 4050 7900 4200
+Wire Wire Line
+	7900 4200 8050 4200
+Connection ~ 7900 4050
+Wire Wire Line
+	7650 4400 8050 4400
+Wire Wire Line
+	6800 2700 7750 2700
+Wire Wire Line
+	6800 2800 7750 2800
+Wire Wire Line
+	6800 2900 7750 2900
+Wire Wire Line
+	6800 3000 7750 3000
+Wire Wire Line
+	7650 2600 7750 2600
+Connection ~ 7650 2600
+$Comp
+L C C4
+U 1 1 554B92DC
+P 4550 3750
+F 0 "C4" H 4575 3850 50  0000 L CNN
+F 1 "100nF" H 4575 3650 50  0000 L CNN
+F 2 "Capacitors_ThroughHole:C_Rect_L7_W2.5_P5" H 4588 3600 30  0001 C CNN
+F 3 "" H 4550 3750 60  0000 C CNN
+	1    4550 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 3400 4550 3400
+Wire Wire Line
+	4550 3400 4550 3600
+Connection ~ 4250 3400
+Wire Wire Line
+	4250 4100 4550 4100
+Wire Wire Line
+	4550 4100 4550 3900
+Connection ~ 4250 4100
+$EndSCHEMATC

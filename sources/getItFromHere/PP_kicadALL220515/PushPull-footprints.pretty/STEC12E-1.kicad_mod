@@ -1,0 +1,15 @@
+(module STEC12E-1 (layer F.Cu) (tedit 554B707D)
+  (descr Encoder)
+  (tags Encoder)
+  (fp_text reference REF** (at 0 3.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value STEC12E-1 (at 0 -10) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 2 thru_hole circle (at -2.5 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole circle (at 2.5 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at -5.6 -7.5) (size 4 4) (drill 2.1) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at 5.6 -7.5) (size 4 4) (drill 2.1) (layers *.Cu *.Mask F.SilkS))
+)

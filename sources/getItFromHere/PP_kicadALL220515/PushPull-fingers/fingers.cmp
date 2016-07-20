@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-10 BZR 5649)-product   date = 2015 May 11, Monday 16:40:35
+
+BeginCmp
+TimeStamp = /5550B930;
+Reference = P1;
+ValeurCmp = CONN_01X07;
+IdModule  = Connectors_Molex:Connector_Molex_PicoBlade_53398-0771;
+EndCmp
+
+BeginCmp
+TimeStamp = /5550B8F6;
+Reference = U1;
+ValeurCmp = fingerBoard;
+IdModule  = PushPull:pushPullFingersPad;
+EndCmp
+
+EndListe

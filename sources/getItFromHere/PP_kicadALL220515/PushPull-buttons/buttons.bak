@@ -1,0 +1,150 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L SW_PUSH SW?
+U 1 1 554B5893
+P 6000 1800
+F 0 "SW?" H 6150 1910 50  0000 C CNN
+F 1 "SW_PUSH" H 6000 1720 50  0000 C CNN
+F 2 "" H 6000 1800 60  0000 C CNN
+F 3 "" H 6000 1800 60  0000 C CNN
+	1    6000 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X05 P?
+U 1 1 554B58B5
+P 4300 2600
+F 0 "P?" H 4300 2900 50  0000 C CNN
+F 1 "CONN_01X05" V 4400 2600 50  0000 C CNN
+F 2 "" H 4300 2600 60  0000 C CNN
+F 3 "" H 4300 2600 60  0000 C CNN
+	1    4300 2600
+	-1   0    0    1   
+$EndComp
+$Comp
+L SW_PUSH SW?
+U 1 1 554B5919
+P 6000 2100
+F 0 "SW?" H 6150 2210 50  0000 C CNN
+F 1 "SW_PUSH" H 6000 2020 50  0000 C CNN
+F 2 "" H 6000 2100 60  0000 C CNN
+F 3 "" H 6000 2100 60  0000 C CNN
+	1    6000 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SW_PUSH SW?
+U 1 1 554B5939
+P 6000 2400
+F 0 "SW?" H 6150 2510 50  0000 C CNN
+F 1 "SW_PUSH" H 6000 2320 50  0000 C CNN
+F 2 "" H 6000 2400 60  0000 C CNN
+F 3 "" H 6000 2400 60  0000 C CNN
+	1    6000 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SW_PUSH SW?
+U 1 1 554B595B
+P 6000 2700
+F 0 "SW?" H 6150 2810 50  0000 C CNN
+F 1 "SW_PUSH" H 6000 2620 50  0000 C CNN
+F 2 "" H 6000 2700 60  0000 C CNN
+F 3 "" H 6000 2700 60  0000 C CNN
+	1    6000 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 2500 5100 2500
+Wire Wire Line
+	5100 2500 5100 2100
+Wire Wire Line
+	5100 2100 5700 2100
+Wire Wire Line
+	4500 2600 5200 2600
+Wire Wire Line
+	5200 2600 5200 2400
+Wire Wire Line
+	5200 2400 5700 2400
+Wire Wire Line
+	4500 2700 5700 2700
+Wire Wire Line
+	4500 2400 5000 2400
+Wire Wire Line
+	5000 2400 5000 1800
+Wire Wire Line
+	5000 1800 5700 1800
+Wire Wire Line
+	4500 2800 6400 2800
+Wire Wire Line
+	6400 2800 6400 1800
+Wire Wire Line
+	6400 1800 6300 1800
+Wire Wire Line
+	6300 2100 6400 2100
+Connection ~ 6400 2100
+Wire Wire Line
+	6300 2400 6400 2400
+Connection ~ 6400 2400
+Wire Wire Line
+	6300 2700 6400 2700
+Connection ~ 6400 2700
+$Comp
+L GND #PWR?
+U 1 1 554B5C87
+P 5000 3050
+F 0 "#PWR?" H 5000 2800 50  0001 C CNN
+F 1 "GND" H 5000 2900 50  0000 C CNN
+F 2 "" H 5000 3050 60  0000 C CNN
+F 3 "" H 5000 3050 60  0000 C CNN
+	1    5000 3050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 3050 5000 2800
+Connection ~ 5000 2800
+$EndSCHEMATC
