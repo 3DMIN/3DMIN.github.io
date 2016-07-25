@@ -1,12 +1,12 @@
 ---
 order: 10
-title: preamp assembly
+title: preamp
 layout: page-build
-imagedir: /images/preamp-assembly
+imagedir: /images/preamp
 tools:
+  - Soldering iron
   - Screwdriver set
   - Jaw wrench for M3 nuts
-  - Soldering iron
   - Pliers
   - 4 M3 nuts
 materials:
