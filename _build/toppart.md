@@ -6,7 +6,7 @@ imagedir: /images/toppart
 tools:
   - TODO: imbusschlüssel
 materials:
-  - polyamid (???) as 3D printing Material
+  - polyamid 12 as 3D printing Material
   - TODO: amount and dimensions of screws
   - TODO: amount and dimensions of Unterlegscheiben
 files:
@@ -32,7 +32,7 @@ files:
 
 ## 3D Printing
 
-Download STL files from above an have the 3D printed (??Polyamid??).
+Download STL files from above an have the 3D printed (material: Polyamid 12).
 
 
 
