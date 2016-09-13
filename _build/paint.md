@@ -15,7 +15,11 @@ tools:
   - paper towels
   - support wood for varnishing
 files:
-  STL fingerboard: HandteilCapSensAufnahme.STL
+  STL fingerboard (part 1): HandteilCapSensAufnahme.STL
+  STL fingerboard (part 2): HandteilCapSensAufnahmeGitter.STL
+  STL hand piece (part 1): HandteilTop.STL
+  STL hand piece (part 2): HanteilBasisTechnik.STL
+  
 materials:
   - 2K fine filler
   - plastic primer
@@ -48,11 +52,11 @@ imagedir: /images/painting
 ![varnished box]({{ page.imagedir }}/IMG_3060.jpg)
 *varnished box*
 
-![varnished top part (Hand-bloc)]({{ page.imagedir }}/IMG_4450.jpg)
-*varnished top part (Hand-bloc)*
+![varnished hand piece (part 1)]({{ page.imagedir }}/IMG_4450.jpg)
+*varnished hand piece (part 1)*
 
-![varnished top parts (from left to right: hand-bloc, finger part, top part ring)]({{ page.imagedir }}/IMG_4443.jpg)
-*varnished top parts. From left to right: hand-bloc, finger part, top part ring.*
+![varnished top parts (from left to right: hand piece (part 1), finger board (part 1), hand piece (part 2))]({{ page.imagedir }}/IMG_4443.jpg)
+*varnished top parts (from left to right: hand piece (part 1), finger board (part 1), hand piece (part 2).*
 
 ## Filling
 

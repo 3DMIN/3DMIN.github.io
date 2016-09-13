@@ -55,7 +55,7 @@ Load the provided file ```LasercutBellow.ai``` to your laser-cutter and try cut 
 
 We got the metal frames professionally produced. All its holes need an M3 female screw threading.
 
-![TODO: photo of laser-cut sheet and metal frames]()
+![]({{ page.imagedir }}/IMG_2047.jpg)
 
 ## Coating preparation
 
@@ -89,12 +89,12 @@ While one person positions the transparent film parallel to the end of the cut c
 *apply adhesive spray to cardboard*
 
 ![]({{ page.imagedir }}/IMG_1260.jpg)
-*apply adhesive spray to mosquito netting*
+*apply adhesive spray to mosquito net*
 
 <div class="note">Wait 10 minutes before mounting mosquito net on cardboard, adhesive spray needs to be dry</div>
 
 ![]({{ page.imagedir }}/IMG_2525.jpg)
-*Mount mosquito netting to the cardboard in the same way as you applied the transparent adhesive film before. Adjust its position by hand if necessary. Avoid wrinkles!*
+*Mount mosquito net to the cardboard in the same way as you applied the transparent adhesive film before. Adjust its position by hand if necessary. Avoid wrinkles!*
 
 ![]({{ page.imagedir }}/IMG_1276.jpg)
 *Use a rubber roll to evenly apply pressure. Not the time but the amount of pressure determines the quality of the connection.*
@@ -113,7 +113,7 @@ While one person positions the transparent film parallel to the end of the cut c
 *spread liquid latex on surface evenly*
 
 ![]({{ page.imagedir }}/IMG_1925.jpg)
-*the more diagonal you hold the rubber spreader the easier you can spread the latex into the mosquito netting*
+*the more diagonal you hold the rubber spreader the easier you can spread the latex into the mosquito net*
 
 ![]({{ page.imagedir }}/IMG_1578.jpg)
 *take care of the edges, they should be fully covered by latex.*
@@ -137,7 +137,7 @@ While one person positions the transparent film parallel to the end of the cut c
 ![]({{ page.imagedir }}/C0009T01.jpg)
 *cut wholes into material with punch.*
 
-![]()
+![TODO: add picture of punching holes]()
 
 ![]({{ page.imagedir }}/IMG_2124.jpg)
 *Remove adhesive transfer film from the mirror side of the material. it is very important to remove it by pulling slowly, parallel and close to the surface. that way you won't rip latex out of the spacings in between the material*
@@ -164,7 +164,7 @@ While one person positions the transparent film parallel to the end of the cut c
 *start at one end putting both ends together*
 
 ![]({{ page.imagedir }}/IMG_2689.jpg)
-*slowly moving up, triangle need to interlock*
+*slowly moving up, triangles need to interlock*
 
 ![]({{ page.imagedir }}/IMG_2656.jpg)
 *cut strip of latex textile 4cm x 95cm*
@@ -205,7 +205,7 @@ While one person positions the transparent film parallel to the end of the cut c
 *Completely folded bellow*
 
 ![]({{ page.imagedir }}/IMG_3239.jpg)
-*Clamp the bellow over night so it will stay in folded position. It it not necessary to apply a lot of pressure. Just that its stable.*
+*Clamp the bellow over night so it will stay in folded position. It it not necessary to apply a lot of pressure. Just that it is stable.*
 
 
 ## Glueing
