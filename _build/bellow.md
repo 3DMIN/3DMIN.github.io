@@ -29,8 +29,8 @@ materials:
   - some white paper
   - talcum
 files:
-  Bellow (ai): LasercutBellow.ai
-  Metal frames (pdf): Metalframes2mmStahl.pdf
+  Bellow Laserfile: LasercutBellow.ai
+  Metal frames: Metallframes2mmStahl.pdf
 imagedir: /images/bellow
 ---
 
@@ -47,13 +47,13 @@ imagedir: /images/bellow
 *folded bellow with metal frames*
 
 
-## Laser-cutting metal frames production.
+## Laser-cutting and metal frames production.
 
 <div class="note">Before laser-cutting, glue the mirror film to the cardboard.</div>
 
 Load the provided file ```LasercutBellow.ai``` to your laser-cutter and try cut settings with a test piece of the material. Then, cut the sheet.
 
-We got the metal frame professionally produced. All its holes need an M3 female screw threading.
+We got the metal frames professionally produced. All its holes need an M3 female screw threading.
 
 ![TODO: photo of laser-cut sheet and metal frames]()
 
