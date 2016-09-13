@@ -22,11 +22,11 @@ tools:
   - piece of scrap-wood
   - set of small files
 materials:
-  - Plywood, 6mm, XXXcm by XXXcm TODO how big?
+  - Plywood, 6mm, 470mm by 300mm
   - 4 spacer bolts, XXXmm TODO length
   - 2K filling material
 files:
-  TODO laser-cutting: laser-cutting-plywood.pdf
+  laser-cutting: BOX_6mm_Plywood.ai
 ---
 
 
@@ -67,7 +67,7 @@ files:
 ![laser-cut wooden parts and spacer bolts]({{ page.imagedir }}/IMG_1175.jpg)
 *laser-cut wooden parts and spacer bolts*
 
-Use the illustrator file TODO make link ```box-wood.pdf``` to laser-cut the parts from the plywood piece.
+Use the illustrator file (link above) to laser-cut the parts from the plywood piece.
 
 <div class="note">Before using your actual material, try the laser-cutter and its settings with a piece of plywood scrap.</div>
 

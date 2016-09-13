@@ -4,9 +4,11 @@ title: toppart
 layout: page-build
 imagedir: /images/toppart
 tools:
-  - TODO: tools for toppart
+  - TODO: imbusschlüssel
 materials:
-  - TODO: materials for toppart
+  - polyamid (???) as 3D printing Material
+  - TODO: amount and dimensions of screws
+  - TODO: amount and dimensions of Unterlegscheiben
 files:
   STL fingerboard (part 1): HandteilCapSensAufnahme.STL
   STL fingerboard (part 2): HandteilCapSensAufnahmeGitter.STL
@@ -29,5 +31,23 @@ files:
 
 
 ## 3D Printing
+
+Download STL files from above an have the 3D printed (??Polyamid??).
+
+
+
+
+## Assembly
+
+capacative sensors into fingerboard and handpiece
+
+fingerboard to part with metal rails
+
+handpiece to part with metal rails
+
+Put all of the above on top of upper frame
+
+This sandwich constrution then needs to be attached to bellow
+
 
 
