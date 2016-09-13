@@ -1,8 +1,8 @@
 ---
 order: 10
-title: encoderboard
+title: encoderboard mounting
 layout: page-build
-imagedir: /images/encoderboard
+imagedir: /images/encoderboard-mounting
 tools:
   - aa
 materials:

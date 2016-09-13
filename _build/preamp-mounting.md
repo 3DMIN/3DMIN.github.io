@@ -1,8 +1,8 @@
 ---
 order: 10
-title: preamp
+title: preamp mounting
 layout: page-build
-imagedir: /images/preamp
+imagedir: /images/preamp-mounting
 tools:
   - Soldering iron
   - Screwdriver set

@@ -1,6 +1,6 @@
 ---
 order: 10
-title: valves assembly
+title: valves mounting
 layout: page-build
 imagedir: /images/valves-assembly
 tools:
