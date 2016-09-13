@@ -4,7 +4,7 @@ title: toppart
 layout: page-build
 imagedir: /images/toppart
 tools:
-  - TODO: imbusschlüssel
+  - "Imbusschlüssel"
 materials:
   - polyamid 12 as 3D printing Material
   - TODO: amount and dimensions of screws
