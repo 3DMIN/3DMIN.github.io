@@ -15,10 +15,7 @@ tools:
   - paper towels
   - support wood for varnishing
 files:
-  STL fingerboard (part 1): HandteilCapSensAufnahme.STL
-  STL fingerboard (part 2): HandteilCapSensAufnahmeGitter.STL
-  STL hand piece (part 1): HandteilTop.STL
-  STL hand piece (part 2): HanteilBasisTechnik.STL
+  
   
 materials:
   - 2K fine filler

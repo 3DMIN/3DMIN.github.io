@@ -8,7 +8,10 @@ tools:
 materials:
   - TODO: materials for toppart
 files:
-  TODO files: laser-cutting-plywood.pdf
+  STL fingerboard (part 1): HandteilCapSensAufnahme.STL
+  STL fingerboard (part 2): HandteilCapSensAufnahmeGitter.STL
+  STL hand piece (part 1): HandteilTop.STL
+  STL hand piece (part 2): HanteilBasisTechnik.STL
 ---
 
 
