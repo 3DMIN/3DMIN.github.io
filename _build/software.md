@@ -24,10 +24,28 @@ The [PushPull](https://github.com/3DMIN/pushPull) quark contains the source code
 + [MeTA](https://github.com/3DMIN/MeTA) is a lightweight extension to create SuperCollider performance frameworks.
 
 
-Download SuperCollider from [github](http://supercollider.github.io).
+Download SuperCollider from [github](http://supercollider.github.io). Then, install the PushPull quark with 
 
-Install the PushPull quark with 
 
 ```
-"PushPull".install;
+Quarks.install("pushPull");
 ```
+
+
+This should also make sure that the dependencies get installed. If not, add them manually by evaluating
+
+
+```
+Quarks.install("Modality-toolkit")
+Quarks.install("MeTA");
+Quarks.install("Keyplayer");
+Quarks.install("JITLibExtensions");
+```
+
+
+Finally, download the PushPull performance-barebone from its github repository:
+
+
+
+## Usage
+

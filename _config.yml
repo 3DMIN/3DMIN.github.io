@@ -25,3 +25,10 @@ collections:
     layout: page-build
   start:
     output: false
+
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  # hard_wrap: false

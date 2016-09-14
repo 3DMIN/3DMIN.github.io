@@ -16,6 +16,17 @@ body {
 	display: block;
 }
 
+
+.highlight {
+	background: white;
+	padding: 0.2em;
+}
+code {
+	font-family: 'Anonymous', monospace;
+	color: white;
+	font-size: 62.5%;
+}
+
 /* NAVIGATION*/
 
 nav.nav-main {
