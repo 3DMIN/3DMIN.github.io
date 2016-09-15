@@ -17,14 +17,18 @@ body {
 }
 
 
-.highlight {
-	background: white;
-	padding: 0.2em;
-}
+
 code {
-	font-family: 'Anonymous', monospace;
+	font-family: monospace;
 	color: white;
-	font-size: 62.5%;
+	// font-size: 62.5%;
+}
+code.highlighter-rouge {
+	// word-spacing: 2ex;
+	font-family: monospace;
+	color: #AAAAAA;
+	font-size: 120%;
+	// border: 1px solid white;
 }
 
 /* NAVIGATION*/
