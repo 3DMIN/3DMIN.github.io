@@ -49,17 +49,15 @@ imagedir: /images/bellow
 
 <div class="note">Before laser-cutting, glue the mirror film to the cardboard.</div>
 
-Load the provided file ```LasercutBellow.ai``` to your laser-cutter and try cut settings with a test piece of the material. Then, cut the sheet. As material we used woodfree cardboard from Igepa (Art.-No. 354-97).
+Load the provided file to your laser-cutter and try cut settings with a test piece of the material. Then, cut the sheet. As material we used woodfree cardboard from Igepa (Art.-No. 354-97).
 
-We got the metal frames professionally produced. All its holes need an M3 female screw threading.
-
-![]({{ page.imagedir }}/IMG_2047.jpg)
+Further we got the metal frames professionally produced. All its holes need a M3 female screw threading.
 
 ## Coating preparation
 
 <div class="note">You will need an assistant for the following steps.</div>
 
-Cut transfer adhesive film to about ```50cm x 100cm``` and remove its protective sheet starting at one corner, pulling diagonally and almost parallel to the surface.
+Cut transfer adhesive film to about 50cm x 100cm and remove its protective sheet starting at one corner, pulling diagonally and almost parallel to the surface.
 
 While one person positions the transparent film parallel to the end of the cut cardboard (mirrored side up!), the other holds up the other end.
 

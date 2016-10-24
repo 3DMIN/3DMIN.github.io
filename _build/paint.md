@@ -90,7 +90,7 @@ Do not worry if you sand off fill material at certain areas. You have to apply a
 *For sanding the lower box, use a cork block to fold sanding paper around. Sand in a circular movement and round off the edges.*
 
 ![The surfaces should be straight after sanding.]({{ page.imagedir }}/IMG_2905.jpg)
-*The surfaces should be straight after sanding.*
+*The surfaces should be evenly matt (not shiny) after sanding.*
 
 ## Taping
 
@@ -168,4 +168,7 @@ The lower box needs to be ground coated with a a appropriate filler. This closes
 
 ![Turn box around and paint upright surfaces and lid.]({{ page.imagedir }}/IMG_2981.jpg)
 *Turn box around and paint upright surfaces and lid.*
+
+![varnished box]({{ page.imagedir }}/IMG_3060.jpg)
+*varnished box*
 

@@ -10,14 +10,14 @@ materials:
   - 2 metal rails
   - 1 handpiece base plate
 files:
-  lasercutter handpiece base plate: TODO
-  metal rail: TODO  
+  handpiece base plate Laserfile: LasercutHandpieceBasePlate.ai
+  metal rails: ToppartMetalrails5mmAluminum.pdf 
 ---
 
 ## Preparation
 
 ![]({{ page.imagedir }}/20150607-IMG_4617.jpg)
-*Remove protective foil from plate.*
+*Remove protective foil from plate. All holes need to be widened so that top parts of srews will sink in evenly.*
 
 Try to fit rails into the plate. 
 They should fit snug into the plate. If they do not, this can be because the inner angles of the teeth in the metal rails might not be sharp enough. 

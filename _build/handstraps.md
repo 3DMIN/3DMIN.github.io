@@ -7,13 +7,13 @@ tools:
   - sewing machine
 materials:
   - 50cm strap band, (width 3.8cm)
-  - 12cm Velcro band
+  - 12cm Velcro band (width 3.8cm)
   - 0.5m black neoprene (0.5cm)
   - strong yarn
   - 3D-printed handpiece top
-  - glue
+  - glue (Pattex Transparent)
 files:
-  TODO handstrap pattern: handstrap-pattern.pdf
+  handstrap cutting pattern: HandstrapCuttingPattern.pdf
 imagedir: /images/handstraps
 ---
 
@@ -42,7 +42,7 @@ Cut another 10cm of the black strap band and put it into shape using the provide
 The strap band will stay in shape if you melt together the fibres of freshly cut ends, e.g., with a lighter.
 </div>
 
-![Cut away a diagonal piece so that it aligns with the relief the hand piece top has on its underside]({{ page.imagedir }}/IMG_4691.jpg)
+![Cut away a diagonal piece so that it aligns with the relief the hand piece top has on its underside.]({{ page.imagedir }}/IMG_4691.jpg)
 *Cut away a diagonal piece so that it aligns with the relief the hand piece top has on its underside*
 
 
@@ -65,10 +65,17 @@ Attach the smaller strap to the neoprene in a similar manner.
 *Sew a seam around the neoprene corners as well.*
 
 
-## Glue straps to handpiece
+## Glue straps to handpiece.
 
 Glue the straps to the hand piece top.
 
 ![]({{ page.imagedir }}/IMG_4685.jpg)
+*Apply Pattex on both parts (handpiece and straps).*
+
 ![]({{ page.imagedir }}/IMG_4697.jpg)
-![]({{ page.imagedir }}/IMG_4683.jpg)
+*Wait for about 10 minutes before putting parts together.*
+
+<div class="note">
+Staple straps to the toppart afterwards to strenghten the conection additionally.
+</div>
+
