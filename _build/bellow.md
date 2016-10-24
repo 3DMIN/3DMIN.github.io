@@ -15,7 +15,7 @@ tools:
   - brush (for talcum)
   - 2 C-clamps
 materials:
-  - TODO black cardboard (48cm x 95cm, XXXg/m2)
+  - black cardboard (48cm x 95cm, 350g/m2)
   - self-adhesive mirror film (48cm x 95cm)
   - self-adhesive transfer film  (50cm x 100cm)
   - moscito net (50cm x 100cm)
@@ -39,8 +39,6 @@ imagedir: /images/bellow
 ![]({{ page.imagedir }}/IMG_1102.jpg)
 *tools and some of the materials*
 
-![TODO: Make picture of workspace]()
-
 ### End Result
 
 ![]({{ page.imagedir }}/IMG_4282.jpg)
@@ -51,7 +49,7 @@ imagedir: /images/bellow
 
 <div class="note">Before laser-cutting, glue the mirror film to the cardboard.</div>
 
-Load the provided file ```LasercutBellow.ai``` to your laser-cutter and try cut settings with a test piece of the material. Then, cut the sheet.
+Load the provided file ```LasercutBellow.ai``` to your laser-cutter and try cut settings with a test piece of the material. Then, cut the sheet. As material we used woodfree cardboard from Igepa (Art.-No. 354-97).
 
 We got the metal frames professionally produced. All its holes need an M3 female screw threading.
 
