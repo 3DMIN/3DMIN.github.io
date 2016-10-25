@@ -11,7 +11,7 @@ tools:
   - drill bit, 5mm
   - hole puncher
   - sharp knife
-  - glue
+  - glue (epoxi and pattex transparent)
 materials:
   - 2m black strap band, 2.5cm width
   - 2 clipping buckles for 2.5cm strap band
@@ -53,7 +53,7 @@ Glue the rubber bits to their positions.
 
 
 ![Glue the rubber bits to their positions]({{ page.imagedir }}/DSC00149.jpg)
-*Glue the rubber bits to their positions*
+*Glue the rubber bits to their positions with epoxi glue*
 
 ![Rubber bits in position]({{ page.imagedir }}/IMG_2262.jpg)
 *Rubber bits in position*
@@ -91,4 +91,4 @@ The strap band will stay in shape if you melt together the fibres of freshly cut
 
 
 ![Glue the straps to the disc]({{ page.imagedir }}/IMG_4753.jpg)
-*Glue the straps to the disc*
+*Glue the straps to the disc with Pattex Transparent. Apply glue on both parts and wait for about 10min. before putting them together.*
