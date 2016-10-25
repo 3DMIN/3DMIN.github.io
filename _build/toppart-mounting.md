@@ -7,8 +7,13 @@ tools:
   - mini screwdriver set
   - allan key set
 materials:
-  - screws: M3x25
-  - TODO: amount and dimensions of washers
+  - 11 countersunk head screws (M3x25)
+  - 1 flat-head screws (M3x10)
+  - 1 flat-head screws (M2x10)
+  - 1 nut (M3)
+  - 1 nut (M2)
+  - 2 washers (M3)
+  - 2 washers (M2)
   - upper frame (painted)
   - handpiece base plate (with rails)
   - handpiece top (painted)
