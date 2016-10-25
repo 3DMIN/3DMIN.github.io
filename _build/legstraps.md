@@ -19,8 +19,8 @@ materials:
   - 10cm x 10cm black acryllic, 3mm thick
   - 1 machine screw M5x30 with washer and nut
 files:
-  TODO pattern rubber: strapdisk-rubberpattern.pdf
-  TODO pattern acrylic: strapdisk-acrylpattern.pdf
+  Laserfile rubber: LegstrapRubber1mm.ai
+  Laserfile acrylic: LegstrapAcrylic5mm.ai
 imagedir: /images/legstraps
 ---
 
