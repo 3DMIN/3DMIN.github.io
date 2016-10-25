@@ -10,35 +10,37 @@ tools:
 files:
   partlist: partlist-byShop
   parts placement: mainPCB_bestueckung.pdf
+  PSoC program: TODO-link-to-repository 
 materials:
   - pcb
   - thin solder
   - electronics from partlist (see Files)
+  - <a href="http://www.x-io.co.uk/products/x-osc/">x-OSC</a> from x-io technologies
 imagedir: /images/mainboard
 ---
 
-
-### Tools and Materials
-![TODO: photo of Tools and Materials ???]()
-
-
-
 ### End result
 ![]({{ page.imagedir }}/IMG_4538.jpg)
+*Mainboard with attached X-OSC.*
 
 ## Order pcb
-The Mainboard and Capsense pcbs are professionally designed and multilayer. So you need to order them. They can not be etched at home. Download the corresponding Ki-Cat files from the Files section above. It is best to order them at the same place as we did so you do not have to adjust anything to match the specs of the production company. This was in our case [eurocircuits.com](http://eurocircuits.com). 
+Both, the mainboard as well as the Capsense PCBs are multilayer cirquit boards and therefore cannot be etched at home. Download the corresponding KiCad files from the files section above and send them to a professional cirquit board manufacturer. 
 
-![TODO: (note for us: find out if they can be ordered by using just a number instead of sending the files!!!)]
+<div class="note">
+To simplify things, you may order the boards at <a href="http://eurocircuits.com">eurocircuits.com</a>, the same place we ordered ours, so you do not have to adjust anything to match the specs of the production company. 
+TODO: add order number or at least order parameters.
+</div>
 
 ## Parts placement
 
 ![]({{ page.imagedir }}/mainPCB_bestueckung.png)
-You can download a bigger version of this drawing from the Files section. Some parts are not needed and are marked with a red X.  
+*Obsolete parts are marked with a red X. A larger version of this drawing can be found in the Files section above.*  
 
 ## Soldering
 
-As for all electronic parts of this PushPull building instructions, we recomment to have at least someone next to you with some soldering experience. We cannot provide a general introduction into soldering here, but there are plenty around on the web. Also for SMD soldering by hand using tweezers which is needed here. In general, always start with the lowest parts. An old Protoboard that is not needed anymore can be used as helping hand to get the male pinheaders soldered straight to the pcb. The protoboard will eventually melt, so do not use a new one that you want to reuse later.
+As for all electronic parts, we assume basic skills in soldering. 
+If you do not have those, we recomment you ask your local guru to help you out. 
+We do not provide a general introduction into soldering, but there are plenty around on the web. Also for SMD soldering by hand using tweezers which is needed here. In general, always start with the lowest parts. An old Protoboard that is not needed anymore can be used as helping hand to get the male pinheaders soldered straight to the pcb. The protoboard will eventually melt, so do not use a new one that you want to reuse later.
 Here are some impressions:
 
 ![]({{ page.imagedir }}/IMG_3195.jpg)
@@ -63,9 +65,9 @@ As a last step take the PSoC board, 4 NeoPixel LEDs and the X-OSC board and put 
 ![]({{ page.imagedir }}/IMG_3928.jpg)
 You need to upload code and break away the small usb part of the PSoC board before assembling it to the main board. We used the mainboard as helping hand to solder male pinheader straight to the PSoC. This can also be done with the NeoPixels.
 
-![TODO: (upload code section and link from here!!!)]
+TODO: upload code section and link from here.
 
 ![]({{ page.imagedir }}/IMG_3220.jpg)
 
 ![]({{ page.imagedir }}/IMG_3227.jpg)
-Prepare 4 NeoPixel LEDs with male pinheader as shown on this picture and put them on the mainboard
+Prepare four NeoPixel LEDs with male pinheader as shown on this picture and put them on the mainboard
