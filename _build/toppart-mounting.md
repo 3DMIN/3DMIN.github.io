@@ -7,7 +7,7 @@ tools:
   - mini screwdriver set
   - allan key set
 materials:
-  - TODO: amount and dimensions of screws
+  - screws: M3x25
   - TODO: amount and dimensions of washers
   - upper frame (painted)
   - handpiece base plate (with rails)

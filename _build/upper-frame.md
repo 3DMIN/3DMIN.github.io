@@ -22,6 +22,8 @@ Only tools needed are gloves and some kind of stick to apply glue.
 ![]({{ page.imagedir }}/20150607-IMG_4676.jpg)
 *upper frames painted and equiped with battery charger*
 
+## Assembly
+
 ![]({{ page.imagedir }}/20150607-IMG_4736.jpg)
 *TODO: WHAT IS THIS???*
 
@@ -32,7 +34,7 @@ Only tools needed are gloves and some kind of stick to apply glue.
 *Apply glue evenly.*
 
 ![]({{ page.imagedir }}/20150607-IMG_4747.jpg)
-*If you want to make a left handed version you need to put the charger uside doen into the upper frame so that the plug will fit through the hole.*
+*If you want to make a left handed version you need to put the charger upside down into the upper frame so that the plug will fit through the hole.*
 
 ![]({{ page.imagedir }}/20150607-IMG_4775.jpg)
 *positioning of the charger in the right handed version*
