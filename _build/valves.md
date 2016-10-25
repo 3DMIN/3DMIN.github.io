@@ -22,22 +22,22 @@ materials:
   - 32 screw nuts (M3)
   - 32 washers (M3)
 files:
-  lasercutter outlets: TODO
-  lasercutter rubber: TODO
-  lasercutter helper plate: TODO
-  
+  outlets (illustrator, lasercut): 1x_pp_se_valveset_plexi3mm.ai
+  rubber (illustrator, lasercut): 6x_pp_se_valveMicClamps_CUT_rubber1mm.ai 
+  helper (illustrator, lasercut) plate: 6x_pp_se_valveHelpplate.ai
 ---
 
 
 ### Materials
 
 ![all you need]({{ page.imagedir }}/IMG_1142.jpg) 
-TODO: replace with 3D rendering including part names
+
+TODO: 3D rendering of parts with part names
 
 
 ### End Result
  
-![TODO End result]()
+![]({{ page.imagedir }}/IMG_4958.jpg)
 
 ## Tube preparation
 
