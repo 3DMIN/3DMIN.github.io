@@ -8,10 +8,10 @@ tools:
 materials:
   - polyamid 12 as 3D printing Material
 files:
-  STL fingerboard (part 1): HandteilCapSensAufnahme.STL
-  STL fingerboard (part 2): HandteilCapSensAufnahmeGitter.STL
-  STL hand piece (part 1): HandteilTop.STL
-  STL hand piece (part 2): HanteilBasisTechnik.STL
+  1st part fingerboard (STL): HandteilCapSensAufnahme.STL
+  2nd part fingerboard (STL): HandteilCapSensAufnahmeGitter.STL
+  1st part hand piece (STL): HandteilTop.STL
+  2nd part hand piece (STL): HanteilBasisTechnik.STL
 ---
 
 

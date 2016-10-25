@@ -35,7 +35,7 @@
 						<h1>Files</h1>
 							<ul>
 							{% for file in page.files %}
-							<li><a href="/sources/{{page.title}}/{{file[1]}}">{{ file[0] | append:'</a>' }}</li>
+							<li><a href="/sources/{{page.title | slugify }}/{{file[1]}}">{{ file[0] | append:'</a>' }}</li>
 							{% endfor %}
 							</ul>
 					</div>

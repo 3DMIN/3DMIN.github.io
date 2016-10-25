@@ -9,6 +9,11 @@ tools:
   - Pliers
 materials:
   - Shrinking tube
+files:
+  Encoder PCB:  2x_pp_se_preamp.pdf
+  NEOPixel PCB: 3x_pp_se_encoderboard.pdf
+  button PCB:   3x_pp_se_neopixelboard.pdf
+  preamp PCB:   6x_pp_se_buttonboard.pdf
 ---
 
 ### End result
