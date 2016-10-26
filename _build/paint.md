@@ -57,6 +57,25 @@ imagedir: /images/painting
 
 ## Filling
 
+
+{% comment %}Holes and dents in the box' surface can be closed by the application of filling material.
+For the 2K filling material to work, its two components needs to be mixed together thoroughly. For this, take some of the first material and put it to a wooden surface, then add a small amount of the second material and mix the two components with a spatula. 
+
+<div class="note">Mix only as much as you will be able to use within the next 10 minutes</div>
+
+Apply it with a scraper to the groves and cracks and remove excess immediately.
+
+<div class="note">Remove excess material when it is still fresh; dry material gets very hard and therefore takes a lot of time to sand away.</div>
+
+![Fill groves and cracks with filling material using a scraper]({{ page.imagedir }}/IMG_2403.jpg)
+*Fill groves and cracks with filling material using a scraper.*
+
+![Prepared box (way too much filling material)]({{ page.imagedir }}/IMG_2770.jpg)
+*A box with way too much filling material.*
+{% endcomment %}
+
+
+
 Use a 2K putty to fill gaps and dents in between parts or on surface.
 
 <div class="note">
@@ -72,6 +91,7 @@ If necessary, repeat this procedure after applying the first layer of filler.
 
 ![Lower box after filling an sanding once with additional 2k fine putty just applied, ready to dry]({{ page.imagedir }}/IMG_2770.jpg)
 *Lower box after filling an sanding once with additional 2k fine putty just applied ready to dry*
+
 
 ## Sanding
 
@@ -91,6 +111,26 @@ Do not worry if you sand off fill material at certain areas. You have to apply a
 
 ![The surfaces should be straight after sanding.]({{ page.imagedir }}/IMG_2905.jpg)
 *The surfaces should be evenly matt (not shiny) after sanding.*
+
+
+## Filing
+
+The lid of the box should get on and off easily. To ensure this, it is necessary to file away parts of its teeth. 
+
+Fix the lid in a vise and carefully file away parts of the teeth with a flat file.
+The use of a square file supports you to keep a right angle also in the corners.
+
+<div class="note">Be careful when taking away the material and be prepared to try several times if the lid fits snug. It is not possible to re-apply filed-off material.</div>
+
+![Fix the lid in a vise.]({{ page.imagedir }}/IMG_2774.jpg)
+*Fix the lid in a vise.*
+
+![Carefully file away parts of the teeth with a flat file.]({{ page.imagedir }}/IMG_2445.jpg)
+*Carefully file away parts of the teeth with a flat file.*
+
+![A square file helps to keep the angle right.]({{ page.imagedir }}/IMG_2439.jpg)
+*A square file helps to keep the angle right.*
+
 
 ## Taping
 
