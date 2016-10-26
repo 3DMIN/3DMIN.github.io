@@ -1,5 +1,5 @@
 ---
-order: 100
+order: 19
 title: software
 layout: page-build
 imagedir: /images/software

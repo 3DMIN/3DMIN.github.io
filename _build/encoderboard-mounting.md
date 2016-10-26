@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 15
 title: encoderboard mounting
 layout: page-build
 imagedir: /images/encoderboard-mounting

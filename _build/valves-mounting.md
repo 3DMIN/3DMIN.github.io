@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 14
 title: valves mounting
 layout: page-build
 imagedir: /images/valves-mounting

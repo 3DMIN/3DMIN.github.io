@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 5
 title: painting
 layout: page-build
 tools:

@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 18
 title: final assembly
 layout: page-build
 tools:

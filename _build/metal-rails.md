@@ -1,5 +1,5 @@
 ---
-order: 9
+order: 8
 title: metal rails
 layout: page-build
 imagedir: /images/metal-rails

@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 13
 title: helper boards
 layout: page-build
 imagedir: /images/helper-boards

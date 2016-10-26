@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 2
 title: 3D printing
 layout: page-build
 imagedir: /images/3dprinting

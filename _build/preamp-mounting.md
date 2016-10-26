@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 16
 title: preamp mounting
 layout: page-build
 imagedir: /images/preamp-mounting

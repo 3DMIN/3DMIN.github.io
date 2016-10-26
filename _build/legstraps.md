@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 10
 title: legstraps
 layout: page-build
 tools:

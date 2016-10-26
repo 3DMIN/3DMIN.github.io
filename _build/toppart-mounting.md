@@ -1,5 +1,5 @@
 ---
-order: 9
+order: 17
 title: toppart mounting
 layout: page-build
 imagedir: /images/toppart-mounting
