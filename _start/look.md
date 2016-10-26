@@ -47,4 +47,33 @@ displayTitle: what's it
 </div>
 </div>
 
+<h1>Authors</h1>
+
+<div class="feats">
+<article>
+<a href="http://ameliehinrichsen.de"><div class="circle" style="background: url('/images/landingpage/TillBovermann.jpg') no-repeat center center;"></div></a>
+    <h1><a href="http://himalo.de">Amelie Hinrichsen</a></h1>
+    <h1>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+</h1>
+</article>
+
+<div class="feats">
+<article>
+<a href="http://tai-studio.org"><div class="circle" style="background: url('/images/landingpage/TillBovermann.jpg') no-repeat center center;"></div></a>
+    <h1><a href="http://tai-studio.org">Till Bovermann</a></h1>
+    <h1>received his PhD in Computer Science for his work on Tangible Auditory Interfaces. He worked at various institutions throughout Europe and was the principal investigator (UdK Berlin) of the <a href="http://3dmin.org">3DMIN project</a>.
+</h1>
+</article>
+
+<div class="feats">
+<article>
+<a href="http://tai-studio.org"><div class="circle" style="background: url('/images/landingpage/TillBovermann.jpg') no-repeat center center;"></div></a>
+    <h1><a href="http://himalo.de">Dominik Hildebrand Marques Lopes</a></h1>
+    <h1>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+</h1>
+</article>
 
