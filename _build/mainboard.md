@@ -11,6 +11,7 @@ files:
   partlist: partlist-byShop
   parts placement: mainPCB_bestueckung.pdf
   PSoC program: TODO-link-to-repository 
+  Kicad repository: kicad-repository
 materials:
   - pcb
   - thin solder
@@ -25,6 +26,8 @@ imagedir: /images/mainboard
 
 ## Order pcb
 Both, the mainboard as well as the Capsense PCBs are multilayer cirquit boards and therefore cannot be etched at home. Download the corresponding KiCad files from the files section above and send them to a professional cirquit board manufacturer. 
+
+The kicad files for the cirquit boards can be found in [this repository](https://github.com/3DMIN/pushpull-kicad).
 
 <div class="note">
 To simplify things, you may order the boards at <a href="http://eurocircuits.com">eurocircuits.com</a>, the same place we ordered ours, so you do not have to adjust anything to match the specs of the production company. 
