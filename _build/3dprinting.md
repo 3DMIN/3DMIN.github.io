@@ -6,7 +6,7 @@ imagedir: /images/3d-printing
 tools:
   - "3D Printer"
 materials:
-  - polyamid 12 as 3D printing Material
+  - polyamid 12 (3D printing material)
 files:
   1st part fingerboard (STL): HandteilCapSensAufnahme.STL
   2nd part fingerboard (STL): HandteilCapSensAufnahmeGitter.STL
