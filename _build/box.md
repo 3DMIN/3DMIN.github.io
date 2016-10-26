@@ -23,7 +23,7 @@ tools:
   - set of small files
 materials:
   - Plywood, 6mm, 470mm by 300mm
-  - 4 spacer bolts, XXXmm TODO length
+  - 4 hexagonal spacer bolts, 40mm length threaded in both ends
   - 2K filling material
 files:
   laser-cutting: BOX_6mm_Plywood.ai

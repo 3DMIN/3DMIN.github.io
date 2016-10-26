@@ -2,7 +2,7 @@
 order: 2
 title: 3D printing
 layout: page-build
-imagedir: /images/3dprinting
+imagedir: /images/3d-printing
 tools:
   - "3D Printer"
 materials:
