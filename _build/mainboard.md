@@ -6,7 +6,7 @@ tools:
   - tweezers
   - soldering iron
   - pliers
-  - old Protoboard (if available)
+  - old proto-board (if available)
 files:
   partlist: partlist-byShop
   parts placement: mainPCB_bestueckung.pdf
@@ -25,9 +25,9 @@ imagedir: /images/mainboard
 *Mainboard with attached X-OSC.*
 
 ## Order pcb
-Both, the mainboard as well as the Capsense PCBs are multilayer cirquit boards and therefore cannot be etched at home. Download the corresponding KiCad files from the files section above and send them to a professional cirquit board manufacturer. 
+Both, the mainboard as well as the capsense PCBs are multilayer circuit boards and therefore cannot be etched at home. Download the corresponding KiCad files from the files section above and send them to a professional circuit board manufacturer. 
 
-The kicad files for the cirquit boards can be found in [this repository](https://github.com/3DMIN/pushpull-kicad).
+The kicad files for the circuit boards can be found in [this repository](https://github.com/3DMIN/pushpull-kicad).
 
 <div class="note">
 To simplify things, you may order the boards at <a href="http://eurocircuits.com">eurocircuits.com</a>, the same place we ordered ours, so you do not have to adjust anything to match the specs of the production company. 
@@ -42,8 +42,8 @@ TODO: add order number or at least order parameters.
 ## Soldering
 
 As for all electronic parts, we assume basic skills in soldering. 
-If you do not have those, we recomment you ask your local guru to help you out. 
-We do not provide a general introduction into soldering, but there are plenty around on the web. Also for SMD soldering by hand using tweezers which is needed here. In general, always start with the lowest parts. An old Protoboard that is not needed anymore can be used as helping hand to get the male pinheaders soldered straight to the pcb. The protoboard will eventually melt, so do not use a new one that you want to reuse later.
+If you do not have those, we recommend you ask your local guru to help you out. 
+We do not provide a general introduction into soldering, but there are plenty around on the web. Also for SMD soldering by hand using tweezers which is needed here. In general, always start with the lowest parts. An old proto-board that is not needed anymore can be used as helping hand to get the male pin headers soldered straight to the PCB. The proto-board will eventually melt, so do not use a new one that you want to reuse later.
 Here are some impressions:
 
 ![]({{ page.imagedir }}/IMG_3195.jpg)
