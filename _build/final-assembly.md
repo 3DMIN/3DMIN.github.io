@@ -28,5 +28,5 @@ Clip caples from bellow to the LED PCB on top of the valves.
 
 Attach lit of lower Box to the bellow with 7 rounded head screws (M3, 10mm ???) from the down side.
 
-Put lit on top of lower Box (mind the right direction, indicated by bottons as the front corresponding with the front of the toppart). And screw lit on top of the box with 4 rounded head screws (M3, 10mm ???).
+Put lit on top of lower Box (mind the right direction, indicated by bottons as the front corresponding with the front of the toppart) and screw it on top of the box with 4 rounded head screws (M3, 10mm ???).
 
