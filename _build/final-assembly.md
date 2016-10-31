@@ -6,7 +6,7 @@ tools:
   - screwdriver
 materials:
   - all parts ready
-  – 11 flathead srews (M3,XXX)
+  - 11 flathead srews (M3,XXX)
   - 11 rounded head screws (M3, XXX)
 imagedir: /images/final-assembly
 ---
