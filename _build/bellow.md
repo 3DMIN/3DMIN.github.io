@@ -131,9 +131,11 @@ While one person positions the transparent film parallel to the end of the cut c
 *here as shown on the bottom part*
 
 ![]({{ page.imagedir }}/C0009T01.jpg)
-*cut wholes into material with punch.*
+*cut away excess material.*
 
-![TODO: add picture of punching holes]()
+![]({{ page.imagedir }}/20161027-IMG_1586.jpg)
+*cut wholes with hollow puncher.*
+
 
 ![]({{ page.imagedir }}/IMG_2124.jpg)
 *Remove adhesive transfer film from the mirror side of the material. it is very important to remove it by pulling slowly, parallel and close to the surface. that way you won't rip latex out of the spacings in between the material*

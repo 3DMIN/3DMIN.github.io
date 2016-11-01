@@ -25,18 +25,9 @@ imagedir: /images/legstraps
 ---
 
 
-### Workspace
-
-![TODO: photo of workspace]()
-
-### Tools
-
-![TODO: photo of tools]()
-
-
 ### End Result
 
-![TODO: photo of end result]()
+![]({{ page.imagedir }}/20161027-IMG_1588.jpg)
 
 ## Disk
 
@@ -48,7 +39,7 @@ Glue the rubber bits to their positions.
 *grating*
 
 
-![TODO: screws fitted]()
+![]({{ page.imagedir }}/20161027-IMG_1592.jpg)
 *screws fitted into the disk*
 
 
@@ -87,8 +78,12 @@ The strap band will stay in shape if you melt together the fibres of freshly cut
 
 
 
-## Combination
-
+## Assembly
 
 ![Glue the straps to the disc]({{ page.imagedir }}/IMG_4753.jpg)
 *Glue the straps to the disc with Pattex Transparent. Apply glue on both parts and wait for about 10min. before putting them together.*
+
+![]({{ page.imagedir }}/20161027-IMG_1591.jpg)
+*Mount the Strap disk to the box.*
+
+![]({{ page.imagedir }}/20161027-IMG_1588.jpg)
