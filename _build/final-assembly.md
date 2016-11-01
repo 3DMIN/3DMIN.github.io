@@ -11,7 +11,26 @@ materials:
 imagedir: /images/final-assembly
 ---
 
-<!-- ![]({{ page.imagedir }}/20150607-IMG_4676.jpg) -->
+### End result
+
+![]({{ page.imagedir }}/20160531-IMG_8891-Till Bovermann.jpg)
+
+
+
+![]({{ page.imagedir }}/20150607-IMG_4633.jpg)
+![]({{ page.imagedir }}/20150607-IMG_4641.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1651.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1652.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1657.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1659.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1661.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1663.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1664.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1666.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1668.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1671.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1672.jpg)
+![]({{ page.imagedir }}/20161027-IMG_1678.jpg)
 
 
 ## Mounting top-part to bellow
