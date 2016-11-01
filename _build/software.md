@@ -31,14 +31,14 @@ and fill in the following details:
 
     Serial
        pin 1 (serial capsense)
-        baud rate    11520
+        baud rate    115200
         buffer size  128
         timeout      16
         framing byte 10
 
     Input 
       pin 2 (serial buttons and encoder)
-        baud rate    11520
+        baud rate    115200
         buffer size  128
         timeout      16
         framing byte 10

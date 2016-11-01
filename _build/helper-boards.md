@@ -129,7 +129,7 @@ We do not provide a general introduction into soldering, but there are plenty ar
 ## Encoder code upload
 
 Button states and rotary encoder states are processed by an [ATMEL Atmega 328 Chip](http://www.atmel.com/devices/ATMEGA328.aspx). It then sends the data by a serial connection to the X-OSC module. The ATMEL needs to be programmed with the [Arduino IDE](https://www.arduino.cc). 
-The particular code for this system is available in the files section section above. 
+The particular code for this system is [available here](https://github.com/3DMIN/pushpull-arduino). 
 Before you can upload the code, you need to install a bootloader to the ATMEL chip. Setting up, bootloading and uploading arduino code to a vanilla Atmega using a breadboard and a FTDI breakoutboard is described [here](https://www.arduino.cc/en/Main/Standalone). The hardware setup found in this tutorial was also the basis on which we designed the encoderboard itself.
 
 ## Crimping cables
