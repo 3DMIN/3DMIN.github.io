@@ -12,6 +12,8 @@ imagedir: /images/final-assembly
 ---
 
 <!-- ![]({{ page.imagedir }}/20150607-IMG_4676.jpg) -->
+
+
 ## Mounting top-part to bellow
 
 Clip cables from bellow into mainboard.
@@ -23,6 +25,8 @@ Make sure that you put the top-part into the corect direct. All holes should cor
 </div>
 
 Attach hand piece to toppart with 4 flathead screws (M3, 20mm???). Choose the right position according to the three sizes indicated on the side.
+
+## Mounting bellow to lower box.
 
 Clip caples from bellow to the LED PCB on top of the valves.
 
