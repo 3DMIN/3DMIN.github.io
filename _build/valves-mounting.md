@@ -10,7 +10,8 @@ materials:
 ---
 ### End Result
 
-![TODO: Picture Endresult with both "platinen"]()
+![]({{ page.imagedir }}/20161027-IMG_1604.jpg)
+
 
 ## Prepartion
 two platinen need to fixed to the valves: on top "neopixel" on the bottom and inside the box "preamp".
@@ -32,5 +33,4 @@ two platinen need to fixed to the valves: on top "neopixel" on the bottom and in
 
 
 
-
-
+![]({{ page.imagedir }}/20161027-IMG_1604.jpg)
