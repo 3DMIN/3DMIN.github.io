@@ -32,8 +32,9 @@ files:
 
 ![all you need]({{ page.imagedir }}/IMG_1142.jpg) 
 
-TODO: 3D rendering of parts with part names
 
+![]({{ page.imagedir }}/valves3D.jpg)
+*identify parts by name*
 
 ### End Result
  
