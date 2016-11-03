@@ -39,7 +39,7 @@ displayTitle: what's it
         <a href="http://ameliehinrichsen.de"><div class="circle" style="background-image: url('/images/landingpage/AmelieHinrichsen.jpg');"></div></a>
         <h1><a href="http://himalo.de">Amelie Hinrichsen</a></h1>
         <h1>
-            completed her studies in Product Design at the uNiversity of the Arts Berlin. After working as a freelancer in Berlin she joined the <a href="http://3dmin.org">3DMIN team</a> as an artistic researcher. Amelies work ranges from film over product- to interface design. It reflects her interest in combining theoretical research with a practical approach.
+            completed her studies in Product Design at the University of the Arts Berlin. After working as a freelancer in Berlin she joined the <a href="http://3dmin.org">3DMIN team</a> as an artistic researcher. 
         </h1>
     </article>
 
