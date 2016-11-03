@@ -39,6 +39,12 @@ We'd like to thank the amazing people withput whom the whole PushPull wouldn't b
 
 Constantin Engelmann for his expertise in electronics and tech shortcuts, Katharina Hauke and Carolin Hauke for their increadible photos and videos, Philipp Schäfer for his web design skills, the [3DMIN Team](http://www.3dmin.org/about/team/), and of course the students of our PushPull-building-course, you did an awesome job! 
 
+## License
+
+Unless otherwise noted, all origitnal work on this page is copyright via CC Attribution 4.0 International:
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0; width: 90px; height: 32px;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PushPull</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://3dmin.github.io/" property="cc:attributionName" rel="cc:attributionURL">3DMIN</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 
 ## Impressum (Angaben gemäß § 5 TMG)
 
