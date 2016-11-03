@@ -6,8 +6,8 @@ tools:
   - screwdriver
 materials:
   - all parts ready
-  - 11 flathead srews (M3,20mm)
-  - 11 rounded head screws (M3, XXX)
+  - 11 countersunk head screws (M3x25)
+  - 11 rounded head screws (M3x10)
 imagedir: /images/final-assembly
 ---
 
@@ -33,7 +33,7 @@ imagedir: /images/final-assembly
 
 
 ![]({{ page.imagedir }}/20161027-IMG_1652.jpg)
-*Attach top-part to bellow with 7 flathead screws (M3, about 20mm).*
+*Attach top-part to bellow with 7 flathead screws (M3x25mm).*
 
 <div class="note">
 Make sure that you orient the top-part correctly. All holes should correspond  to the holes in the metal frame of the bellow.
@@ -46,7 +46,7 @@ Make sure that you orient the top-part correctly. All holes should correspond  t
 *Choose the right position according to the three notches indicated on the side.*
 
 ![]({{ page.imagedir }}/20161027-IMG_1664.jpg)
-*Attach hand piece to toppart with 4 flat head screws (M3, 20mm).*
+*Attach hand piece to toppart with 4 flat head screws (M3x25mm).*
 
 
 
@@ -59,7 +59,7 @@ Make sure that you orient the top-part correctly. All holes should correspond  t
 {% comment %}![]({{ page.imagedir }}/20161027-IMG_1668.jpg){% endcomment %}
 
 ![]({{ page.imagedir }}/20161027-IMG_1671.jpg)
-*Attach lit of lower Box to the bellow with 7 rounded head screws (M3, 10mm) from below.*
+*Attach lit of lower Box to the bellow with 7 rounded head screws (M3x10mm) from below.*
 
 ![]({{ page.imagedir }}/20161027-IMG_1672.jpg)
 

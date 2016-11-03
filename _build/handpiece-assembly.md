@@ -7,7 +7,6 @@ tools:
   - mini screwdriver set
   - allan key set
 materials:
-  - 11 countersunk head screws (M3x25)
   - 1 flat-head screws (M3x10)
   - 1 flat-head screws (M2x10)
   - 1 nut (M3)
