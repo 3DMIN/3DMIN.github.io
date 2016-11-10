@@ -13,7 +13,7 @@
 				<div class="column">
 					<div class="col-1">
 						<h1>{{ page.title | capitalize }} steps</h1>
-						<div class="toc-output"></div>	
+						<div class="toc-output"></div>
 					</div>
 					<div class="col-1">
 						<h1>Tools</h1>
@@ -41,13 +41,13 @@
 					</div>
 				</div>
 			</div>
-			
+
 		</div>
 	</section>
 
-    <section class="content">
+  <section class="content">
 		<div class="wrapper content">
-			
+
 			<div class="column">
 				<div class="fixed">
 					<div class="col-1">
@@ -69,26 +69,25 @@
 					{{ content }}
 				</div>
 			</div>
-			
-			
+
+
 		</div>
 	</section>
-    	
-    </section>
-	
-	
-	
+
+
+  {% include footer.html %}
+
 	<script>
 		var ToC =
 		  "<nav role='navigation' class='table-of-contents'>" +
 		  "<ul>";
 		var newLine, el, title, link;
-		
+
 		$(".column h2").each(function() {
 		  el = $(this);
 		  title = el.text();
 		  link = "#" + el.attr("id");
-		
+
 		  newLine =
 		    "<li>" +
 		      "<a href='" + link + "'>" +
@@ -97,15 +96,14 @@
 		    "</li>";
 
 		  ToC += newLine;
-		
+
 		});
-		
+
 		ToC +=
 		   "</ul>" +
 		  "</nav>";
-		
+
 		$(".toc-output").html(ToC);
 	</script>
-
   </body>
 </html>

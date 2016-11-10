@@ -1,7 +1,7 @@
 ---
 layout: start
 ---
-<section class="start">
+<section class="start" id="start">
 	<div class="cycle-slideshow" style="cleartypeNoBg: true;">
 		{% for image in site.static_files %}
 		{% if image.path contains 'images/landingpage/slides' %}
@@ -20,4 +20,3 @@ layout: start
 	</div>
 </section>
 {% endfor %}
-
