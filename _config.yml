@@ -9,9 +9,9 @@
 title: PushPull
 email: 3dmin@3dmin.org
 description: > # this means to ignore newlines until "baseurl:"
-  Instructions on how to build a PushPull instrument.
+  PushPull is an instrument developed as part of the 3DMIN project. This page may serve as an inspiration for you. What will you build? What will you do different? 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://3dmin.github.io/" # the base hostname & protocol for your site
 twitter_username: 3dmin
 github_username:  3dmin
 

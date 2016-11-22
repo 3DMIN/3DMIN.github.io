@@ -14,7 +14,6 @@ This page may serve as an inspiration for you. What will you build? What will yo
 We are more than happy to learn about your variation and add it to the page! Just write an [issue to the github page](https://github.com/3DMIN/3DMIN.github.io/issues/new) and we will get in contact with you.
 
 If you want to get a face-to-face introduction on building this extraordinary instrument as well as to be introduced to new sound patches and mappings, please contact one of us via [our](http://ameliehinrichsen.de) [web](http://himalo.de) [pages](http://tai-studio.org#contact) or via [twitter](https://twitter.com/3dminBerlin). Since we facilitated PushPull-building workshops in the past, we are happy to repeat it in one way or the other.
-</p></div>
 
 
 <div class="feats">
