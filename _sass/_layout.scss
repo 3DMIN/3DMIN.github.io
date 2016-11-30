@@ -53,7 +53,6 @@ nav.nav-main {
 		border: none !important;
 		font-family: 'Lato', sans-serif;
 		font-weight: 700;
-		color: black !important;
 		text-decoration: none;
 	}
 	.start {
@@ -75,7 +74,7 @@ nav.nav-main {
 			a:link {
 				padding: 12px 40px;
 				border-radius: 4px;
-				// color: black !important;
+				color: black;
 				text-decoration: none;
 			}
 			&:first-child {
@@ -106,7 +105,7 @@ nav.nav-main {
 			}
 		}
 		a.code, a.code:visited {
-			color: $code ;
+			color: $code !important;
 			border: 2px solid $code;
 			&:hover {
 				background: $code;
@@ -114,7 +113,7 @@ nav.nav-main {
 			}
 		}
 		a.play, a.play:visited {
-			color: $play ;
+			color: $play !important;
 			border: 2px solid $play;
 			&:hover {
 				background: $play;
