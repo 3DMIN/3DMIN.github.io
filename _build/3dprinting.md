@@ -12,6 +12,7 @@ files:
   2nd part fingerboard (STL): HandteilCapSensAufnahmeGitter.STL
   1st part hand piece (STL): HandteilTop.STL
   2nd part hand piece (STL): HanteilBasisTechnik.STL
+excerpt: 3D printing parts of the PushPull
 ---
 
 

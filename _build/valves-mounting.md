@@ -6,7 +6,8 @@ imagedir: /images/valves-mounting
 tools:
   - flat pliers
 materials:
-  - 16 nuts (XXmm)
+  - 16 nuts (M4)
+excerpt: How to mount the valves to the lower box of PushPull
 ---
 ### End Result
 

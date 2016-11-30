@@ -15,6 +15,7 @@ materials:
 files:
   handstrap cutting pattern: HandstrapCuttingPattern.pdf
 imagedir: /images/handstraps
+excerpt: sewing the hand straps for PushPull
 ---
 
 

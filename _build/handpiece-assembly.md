@@ -18,6 +18,7 @@ materials:
   - handpiece top (painted)
   - fingerboard (painted)
   - capsense areas (fingers, thumb, soldered)
+excerpt: How to put together all parts of PushPull's hand piece
 ---
 
 

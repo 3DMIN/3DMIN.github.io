@@ -18,6 +18,7 @@ materials:
   - Multicolored wire
   - 1 pin header (PC-25 3SL-180°)
   - Shrinking tube
+excerpt: Mounting the preamp into PushPull
 ---
 
 ### Material

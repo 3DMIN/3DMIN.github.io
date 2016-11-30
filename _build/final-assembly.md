@@ -9,6 +9,7 @@ materials:
   - 11 countersunk head screws (M3x25)
   - 11 rounded head screws (M3x10)
 imagedir: /images/final-assembly
+excerpt: assemble the PushPull
 ---
 
 ### End result

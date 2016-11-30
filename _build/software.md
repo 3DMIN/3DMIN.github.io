@@ -7,6 +7,7 @@ tools:
   - Computer
 materials:
   materials: for 
+excerpt: Introduction to the software part of PushPull
 ---
 
 ## X-OSC setup

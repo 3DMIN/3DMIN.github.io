@@ -12,6 +12,7 @@ materials:
 files:
   handpiece base plate Laserfile: LasercutHandpieceBasePlate.ai
   metal rails: ToppartMetalrails5mmAluminum.pdf 
+excerpt: Adding Metal rails to a specific part in the process of building PushPull
 ---
 
 ## Preparation

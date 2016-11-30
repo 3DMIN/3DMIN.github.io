@@ -25,6 +25,7 @@ files:
   outlets (illustrator, lasercut): 1x_pp_se_valveset_plexi3mm.ai
   rubber (illustrator, lasercut): 6x_pp_se_valveMicClamps_CUT_rubber1mm.ai 
   helper (illustrator, lasercut) plate: 6x_pp_se_valveHelpplate.ai
+excerpt: How to build the valves of a PushPull
 ---
 
 

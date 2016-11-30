@@ -15,6 +15,7 @@ materials:
   - nylon button caps, 7mm diameter
   - 22 - 26 nuts, M3
   - 10 screws, M3, 11mm
+excerpt: How to assemble the cirquit boards to the lower part of PushPull
 ---
 
 ### Material

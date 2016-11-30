@@ -28,6 +28,7 @@ files:
   button PCB:   3x_pp_se_neopixelboard.pdf
   preamp PCB:   6x_pp_se_buttonboard.pdf
   crimping equipment: crimping-equipment.html
+excerpt: Soldering and testing PushPull's cirquit boards
 ---
 
 ### End result

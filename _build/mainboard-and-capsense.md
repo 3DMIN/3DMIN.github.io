@@ -18,6 +18,7 @@ materials:
   - electronics from partlist (see Files)
   - <a href="http://www.x-io.co.uk/products/x-osc/">x-OSC</a> from x-io technologies
 imagedir: /images/mainboard-and-capsense
+excerpt: How to build the mainboard and capsense areas of PushPull
 ---
 
 ### End result

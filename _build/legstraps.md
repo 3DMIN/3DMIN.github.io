@@ -22,6 +22,7 @@ files:
   Laserfile rubber: LegstrapRubber1mm.ai
   Laserfile acrylic: LegstrapAcrylic5mm.ai
 imagedir: /images/legstraps
+excerpt: How to build and attach leg straps to the PushPull
 ---
 
 

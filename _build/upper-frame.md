@@ -11,6 +11,7 @@ materials:
   - painted upper frame
   - base plate
 imagedir: /images/upper-frame
+excerpt: How to assemble the upper frame of PushPull
 ---
 
 

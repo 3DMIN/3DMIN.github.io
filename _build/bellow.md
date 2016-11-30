@@ -32,6 +32,7 @@ files:
   Bellow Laserfile: LasercutBellow.ai
   Metal frames: Metallframes2mmStahl.pdf
 imagedir: /images/bellow
+excerpt: How to create a PushPull bellow
 ---
 
 ### Tools

@@ -17,6 +17,7 @@ materials:
 files:
   Assembly template: cableassembly_template.pdf
 imagedir: /images/cables
+excerpt: assembling cables to go into the bellow of PushPull
 ---
 
 

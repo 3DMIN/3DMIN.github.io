@@ -27,6 +27,7 @@ materials:
   - 2K filling material
 files:
   laser-cutting: BOX_6mm_Plywood.ai
+excerpt: building the lower box for PushPull
 ---
 
 

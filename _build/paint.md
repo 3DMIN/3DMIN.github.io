@@ -24,6 +24,7 @@ materials:
   - filler
   - varnish
 imagedir: /images/painting
+excerpt: Painting parts of PushPull
 ---
 
 
